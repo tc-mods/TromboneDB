@@ -14,7 +14,7 @@ def upload_file_to_pixeldrain(file_path):
             print(f"Failed to upload {file_path}. Status code: {r.status_code}")
             return None
 
-with open("site/data/db.json", "r", encoding="utf-8") as f:
+with open("docs/data/db.json", "r", encoding="utf-8") as f:
     db = json.load(f)
 
 for idx, chart in enumerate(db):
@@ -22,5 +22,5 @@ for idx, chart in enumerate(db):
         chart["pixeldrain_id"] = upload_file_to_pixeldrain(".charts/" + chart["filename"])
         db[idx] = chart
 
-with open("site/data/db.json", "w", encoding="utf-8") as json_file:
+with open("docs/data/db.json", "w", encoding="utf-8") as json_file:
     json.dump(db, json_file, indent=4, ensure_ascii=False)

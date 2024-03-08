@@ -38,7 +38,7 @@ class DownloadClient(disnake.Client):
         self.message_cache = []
         with open('.config/last_message.txt', 'r') as f:
             self.last_message_id = int(f.read().strip())
-        with open('site/data/db.json', 'r', encoding='utf-8') as f:
+        with open('docs/data/db.json', 'r', encoding='utf-8') as f:
             self.db = json.load(f)
         # We'll init this later
         self.session: aiohttp.ClientSession = None
@@ -301,7 +301,7 @@ class DownloadClient(disnake.Client):
 
         if count:
             print(f"Saving {count} charts to the database...")
-            with open('site/data/db.json', 'w', encoding="utf-8") as json_file:
+            with open('docs/data/db.json', 'w', encoding="utf-8") as json_file:
                 json.dump(self.db, json_file, indent=4, ensure_ascii=False)
             with open('.config/last_message.txt', 'w') as file:
                 file.write(str(last))

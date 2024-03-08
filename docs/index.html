@@ -76,7 +76,7 @@
         }
         function format_archive(filename) {
             if (filename)
-                return "<a href='https://archive.org/download/TromboneChampCustoms/" + filename + "' target='_blank'>archive.org</a>";
+                return "<a href='https://archive.org/download/TromboneChampCustoms/" + encodeURIComponent(filename) + "' target='_blank'>archive.org</a>";
             else return "";
         }
         function format_size(bytes) {

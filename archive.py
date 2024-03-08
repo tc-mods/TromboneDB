@@ -9,6 +9,10 @@ item = session.get_item("TromboneChampCustoms")
 
 for file in os.listdir('.charts/'):
     try:
+        print(f"Uploading {file}...")
         item.upload_file('.charts/' + file)
     except Exception as e:
         print(f"Failed to upload {file} to the Internet Archive: {e}")
+
+if not os.listdir('.charts/'):
+    print("Nothing to upload!")

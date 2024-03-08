@@ -291,7 +291,7 @@ class DownloadClient(disnake.Client):
                 entry["tt_id"] = None
             entry['pixeldrain_id'] = None # This will be sorted later
             entry['charter'] = charter
-            entry['filesize'] = os.path.getsize(tempfile)
+            entry['size'] = os.path.getsize(tempfile)
             if not os.path.exists('.charts/'):
                 os.makedirs('.charts/')
             shutil.move(tempfile, '.charts/' + filename)

@@ -107,6 +107,17 @@ class DownloadClient(disnake.Client):
         
         raise FileNotFoundError
     
+    async def download_dropbox_link(self, url: str, path: str):
+        url  = url.replace("dl=0", "dl=1")
+        async with self.session.get(url) as response:
+            if response.status != 200:
+                raise FileNotFoundError
+            async with aiofiles.open(path, 'wb') as file:
+                async for data, _ in response.content.iter_chunks():
+                    await file.write(data)
+                return
+
+    
     async def get_toottally_id(self, filename, hash):
         try:
             async with self.session.get(f'https://toottally.com/hashcheck/{hash}/') as r:
@@ -251,6 +262,19 @@ class DownloadClient(disnake.Client):
                     await self.download_google_file(gdrive_id, tempfile)
                 except Exception as e:
                     print(f"ERROR: Failed to download Google Drive link for {url}")
+                    if os.path.exists(tempfile):
+                        os.remove(tempfile)
+                    continue
+            elif 'dropbox.com/' in url:
+                try:
+                    await self.download_dropbox_link(url, tempfile)
+                except FileNotFoundError:
+                    print(f"ERROR: Failed to find a download link for {url}")
+                    if os.path.exists(tempfile):
+                        os.remove(tempfile)
+                    continue
+                except Exception as e:
+                    print(f"ERROR: Failed to download Dropbox link {url}")
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue

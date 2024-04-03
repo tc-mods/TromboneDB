@@ -2,3 +2,4 @@
 .charts/
 *.zip
 *.env
+__pycache__/

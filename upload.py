@@ -6,7 +6,7 @@ def upload_file_to_pixeldrain(file_path):
     url = "https://pixeldrain.com/api/file"
     with open(file_path, "rb") as f:
         file_path = os.path.basename(file_path)
-        r = requests.post(url, files={"file": f}, auth=("", os.getenv("PIXELDRAIN_KEY")), data={"name": file_path, "anonymous": False})
+        r = requests.post(url, files={"file": f}, auth=("", os.getenv("PIXELDRAIN_KEY")), data={"name": file_path.split(".")[0] + ".zip", "anonymous": False})
         if r.status_code == 201:
             print(f"File {file_path} uploaded successfully: {r.json()["id"]}")
             return r.json()["id"]

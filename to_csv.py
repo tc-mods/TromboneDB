@@ -11,7 +11,7 @@ key_list = {
     "genre": "Genre",
     "tempo": "BPM",
     "difficulty": "Difficulty",
-    "pixeldrain_id": "Download",
+    "download_path": "Download",
     "filename": "Archive Link",
     "size": "Size"
 }
@@ -23,7 +23,7 @@ with open("docs/data/db.json", "r", encoding="utf-8") as f:
 for item in db:
     selected_data = {key_list[key]: item.get(key, None) for key in key_list}
     csv_data.append(selected_data)
-# Write the updated database back to the db.json file
+
 with open("docs/data/db.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=list(key_list.values()))
     writer.writeheader()

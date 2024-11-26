@@ -1,7 +1,9 @@
 aiohttp
 aiofiles
 disnake
+audioop-lts
 aiogoogle
 internetarchive
 python-dotenv
 requests
+boto3

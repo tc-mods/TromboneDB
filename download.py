@@ -225,7 +225,17 @@ class DownloadClient(disnake.Client):
             if not message.embeds[0].description:
                 continue
             mentions = re.findall(r"<@!?(\d+)>", message.embeds[0].description)
-            users = [i for i in [await self.fetch_user(id) for id in mentions] if i is not None]
+            users = []
+
+            for id in mentions:
+                user = channel.guild.get_member(id)
+                if not user:
+                    try:
+                        user = await channel.guild.fetch_member(id)
+                    except disnake.errors.NotFound:
+                        user = await self.fetch_user(id)
+                if user:
+                    users.append(user)
 
             if not users:
                 charter = None
@@ -244,12 +254,14 @@ class DownloadClient(disnake.Client):
                 try:
                     await self.download_discord_link(url, tempfile)
                 except FileNotFoundError:
-                    print(f"ERROR: Failed to find a download link for {url}")
+                    print(f"ERROR: Failed to find a download link for {url} to save to {tempfile}")
+                    chart_id = _id
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue
                 except Exception as e:
-                    print(f"ERROR: Failed to download Discord link {url}")
+                    print(f"ERROR: Failed to download Discord link {url} to {tempfile}")
+                    chart_id = _id
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue
@@ -257,11 +269,13 @@ class DownloadClient(disnake.Client):
                 try:
                     gdrive_id = self.parse_google_download_link(url)
                     if not gdrive_id:
-                        print(f"ERROR: Failed to parse Google Drive link {url}")
+                        print(f"ERROR: Failed to parse Google Drive link {url} to save to {tempfile}")
+                        chart_id = _id
                         continue
                     await self.download_google_file(gdrive_id, tempfile)
                 except Exception as e:
-                    print(f"ERROR: Failed to download Google Drive link for {url}")
+                    print(f"ERROR: Failed to download Google Drive link for {url} to {tempfile}")
+                    chart_id = _id
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue
@@ -269,12 +283,14 @@ class DownloadClient(disnake.Client):
                 try:
                     await self.download_dropbox_link(url, tempfile)
                 except FileNotFoundError:
-                    print(f"ERROR: Failed to find a download link for {url}")
+                    print(f"ERROR: Failed to find a download link for {url} to save to {tempfile}")
+                    chart_id = _id
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue
                 except Exception as e:
-                    print(f"ERROR: Failed to download Dropbox link {url}")
+                    print(f"ERROR: Failed to download Dropbox link {url} to {tempfile}")
+                    chart_id = _id
                     if os.path.exists(tempfile):
                         os.remove(tempfile)
                     continue
@@ -313,8 +329,14 @@ class DownloadClient(disnake.Client):
                 entry["tt_id"] = await self.get_toottally_id(filename, song_info["hash"])
             else:
                 entry["tt_id"] = None
-            entry['pixeldrain_id'] = None # This will be sorted later
+            entry['pixeldrain_id'] = None # Depreciated
+            entry["download_path"] = None # This will be sorted later
             entry['charter'] = charter
+            if users:
+                entry['user_id'] = users[0].id
+            else:
+                entry['user_id'] = None
+            entry['message_id'] = message.id
             entry['size'] = os.path.getsize(tempfile)
             if not os.path.exists('.charts/'):
                 os.makedirs('.charts/')

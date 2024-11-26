@@ -82,9 +82,9 @@
             return bytes.toFixed(dp) + ' ' + units[u];
         }
 
-        function format_download(id) {
-            if (id)
-                return "<a href='https://pixeldrain.com/u/" + id + "' target='_blank'>Download</a>";
+        function format_download(path) {
+            if (path)
+                return "<a href='https://db.trombone.fyi/" + path + "' target='_blank'>Download</a>";
             else return "";
         }
         function format_archive(filename) {

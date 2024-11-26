@@ -313,7 +313,8 @@ class DownloadClient(disnake.Client):
                 entry["tt_id"] = await self.get_toottally_id(filename, song_info["hash"])
             else:
                 entry["tt_id"] = None
-            entry['pixeldrain_id'] = None # This will be sorted later
+            entry['pixeldrain_id'] = None # Depreciated
+            entry["download_path"] = None # This will be sorted later
             entry['charter'] = charter
             entry['size'] = os.path.getsize(tempfile)
             if not os.path.exists('.charts/'):

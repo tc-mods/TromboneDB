@@ -35,12 +35,12 @@ def upload_file_to_r2(file_path):
         exists = True
         while exists:
             try:
-                s3.head_object(Bucket=os.environ("R2_BUCKET_NAME"), Key=filename)
+                s3.head_object(Bucket=os.getenv("R2_BUCKET_NAME"), Key=filename)
                 count += 1
                 filename = file_path.split(".")[0] + f"-{count}.zip"
             except botocore.exceptions.ClientError:
                 exists = False
-                s3.upload_fileobj(f, os.environ("R2_BUCKET_NAME"), filename)
+                s3.upload_fileobj(f, os.getenv("R2_BUCKET_NAME"), filename)
                 print(f"File {file_path} uploaded successfully: {filename}")
         return filename
 

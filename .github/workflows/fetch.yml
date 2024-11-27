@@ -54,4 +54,5 @@ jobs:
       - name: Upload to the Internet Archive
         run: |
           S3_ACCESS_KEY=${{ secrets.S3_ACCESS_KEY }} \
-          S3_SECRET_KEY=${{ secrets.S3_SECRET_KEY }}
+          S3_SECRET_KEY=${{ secrets.S3_SECRET_KEY }} \
+          python archive.py

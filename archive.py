@@ -1,9 +1,12 @@
 import os
+from dotenv import load_dotenv
 from internetarchive import get_session
 
-config = {"s3":{"access_key": os.getenv("S3_ACCESS_KEY"), "secret_key": os.getenv("S3_SECRET_KEY")}}
+load_dotenv()
 
-session = get_session(config)
+config = {"s3":{"access": os.getenv("S3_ACCESS_KEY"), "secret": os.getenv("S3_SECRET_KEY")}}
+
+session = get_session(config=config)
 get_session()
 
 item = session.get_item("TromboneChampCustoms")

@@ -8,6 +8,10 @@ from dotenv import load_dotenv
 # Used for development purposes
 load_dotenv()
 
+if not os.path.exists(".charts/"):
+    print("No charts to upload!")
+    exit()
+
 s3 = boto3.client("s3",
   endpoint_url = f"https://{os.getenv('R2_ACCOUNT_ID')}.r2.cloudflarestorage.com",
   aws_access_key_id = os.getenv("R2_ACCESS_KEY_ID"),
@@ -48,6 +52,9 @@ with open("docs/data/db.json", "r", encoding="utf-8") as f:
     db = json.load(f)
 
 filelist = os.listdir(".charts/")
+if not filelist:
+    print("No charts to upload!")
+    exit()
 
 for idx, chart in enumerate(db):
     # if not chart["pixeldrain_id"] and chart["filename"] in os.listdir(".charts/"):

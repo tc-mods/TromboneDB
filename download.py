@@ -124,7 +124,7 @@ class DownloadClient(disnake.Client):
                 if r.status == 200:
                     return int(await r.text())
                 else:
-                    print(f'Failed to get TootTally ID for {filename} [{hash}] - Error {r.status_code}')
+                    print(f'Failed to get TootTally ID for {filename} [{hash}] - Error {r.status}')
                     return None
         except Exception as e:  # noqa: E722
             print(f'Failed to get TootTally ID for {filename} (Hash {hash}) - Unknown Error: {e}')

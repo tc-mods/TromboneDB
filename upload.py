@@ -44,7 +44,7 @@ def upload_file_to_r2(file_path):
                 filename = file_path.split(".")[0] + f"-{count}.zip"
             except botocore.exceptions.ClientError:
                 exists = False
-                s3.upload_fileobj(f, os.getenv("R2_BUCKET_NAME"), filename)
+                s3.upload_fileobj(f, os.getenv("R2_BUCKET_NAME"), filename, ExtraArgs={"ContentType":"application/zip"})
                 print(f"File {file_path} uploaded successfully: {filename}")
         return filename
 

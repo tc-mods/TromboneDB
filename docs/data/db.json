@@ -235863,5 +235863,46 @@
         "user_id": 1530952314108645457,
         "message_id": 1530955254890234098,
         "size": 9203783
+    },
+    {
+        "filename": "05474. ニャニャニャチュニャ (NNNCN) - TAK - DORIDORI feat. Kotoha [silver].zip",
+        "id": "05474",
+        "filelist": [
+            "NNNCN/",
+            "NNNCN/bg.mp4",
+            "NNNCN/song.ogg",
+            "NNNCN/song.tmb"
+        ],
+        "name": "ニャニャニャチュニャ (NNNCN)",
+        "shortName": "Nya Nya Nya Chu Nya",
+        "trackRef": "NNNCN",
+        "author": "TAK / DORIDORI feat. Kotoha",
+        "year": 2026,
+        "genre": "HoYo-whatever",
+        "description": "Zenless Zone Zero soundtrack I think",
+        "tempo": 126,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0,
+            0.278431385755539
+        ],
+        "note_color_end": [
+            0.517401933670044,
+            0.298039197921753,
+            1
+        ],
+        "endpoint": 327,
+        "hash": "6c3896cb9b71e859adafffbb6ddcbca9912e0d4f6455d7c58e3230221e6b78bb",
+        "version": null,
+        "tt_id": 8083,
+        "pixeldrain_id": null,
+        "download_path": "05474.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1531039943143587993,
+        "size": 11128975
     }
 ]

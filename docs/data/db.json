@@ -235822,5 +235822,46 @@
         "user_id": 196324916864352257,
         "message_id": 1530907778615476355,
         "size": 11128976
+    },
+    {
+        "filename": "05473. 光晞不能捐 - 下一站幸福 [stalinone].zip",
+        "id": "05473",
+        "filelist": [
+            "光晞不能捐/",
+            "光晞不能捐/bg.mp4",
+            "光晞不能捐/song.ogg",
+            "光晞不能捐/song.tmb"
+        ],
+        "name": "光晞不能捐",
+        "shortName": "光晞不能捐",
+        "trackRef": "光晞不能捐_lm8j93",
+        "author": "下一站幸福",
+        "year": "2009",
+        "genre": "Meme",
+        "description": "光晞不行，他不能捐",
+        "tempo": 120.0,
+        "timesig": 4,
+        "difficulty": 8,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 96.5,
+        "hash": "dd99f6f0179f6262c0fd87b7310319bc3c5dce4d1c93adfe0f687faecdd3ed46",
+        "version": null,
+        "tt_id": 8082,
+        "pixeldrain_id": null,
+        "download_path": "05473.zip",
+        "charter": "stalinone",
+        "user_id": 1530952314108645457,
+        "message_id": 1530955254890234098,
+        "size": 9203783
     }
 ]

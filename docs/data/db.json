@@ -235945,5 +235945,87 @@
         "user_id": 226382545204412416,
         "message_id": 1531318517780185189,
         "size": 6278756
+    },
+    {
+        "filename": "05476. Animal I Have Become - Three Days Grace [Shorty132471].zip",
+        "id": "05476",
+        "filelist": [
+            "Animal I Have Become/",
+            "Animal I Have Become/bg.mp4",
+            "Animal I Have Become/song.ogg",
+            "Animal I Have Become/song.tmb"
+        ],
+        "name": "Animal I Have Become",
+        "shortName": "Animal I Have Become",
+        "trackRef": "animalihavebecome",
+        "author": "Three Days Grace",
+        "year": 2006,
+        "genre": "Hard Rock",
+        "description": "If you've played WWE Smackdown vs Raw 2007, you've probably heard this one.",
+        "tempo": 121.879,
+        "timesig": 2,
+        "difficulty": 3,
+        "savednotespacing": 235,
+        "note_color_start": [
+            1,
+            0.211764708161354,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.800000011920929,
+            0.298039227724075
+        ],
+        "endpoint": 451,
+        "hash": "f88fb9518915141c549d780d1cf90b6b20dce4830b6b98655b580edc1dc12776",
+        "version": null,
+        "tt_id": 8085,
+        "pixeldrain_id": null,
+        "download_path": "05476.zip",
+        "charter": "Shorty132471",
+        "user_id": 391677695773245442,
+        "message_id": 1531364271802417253,
+        "size": 29148182
+    },
+    {
+        "filename": "05477. FLUFFY♡POPPING☆SUMMER!!! - DJ Genki [Madpie24].zip",
+        "id": "05477",
+        "filelist": [
+            "fluffy♡popping☆summer/",
+            "fluffy♡popping☆summer/bg.mp4",
+            "fluffy♡popping☆summer/song.ogg",
+            "fluffy♡popping☆summer/song.tmb"
+        ],
+        "name": "FLUFFY♡POPPING☆SUMMER!!!",
+        "shortName": "FLUFFY♡POPPING☆SUMMER!!!",
+        "trackRef": "fluffy♡_24gvwm",
+        "author": "DJ Genki",
+        "year": "2026",
+        "genre": "Electronic",
+        "description": "Featured in the rhythm game \"EZ2ON REBOOT: R\"",
+        "tempo": 340.0,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 150,
+        "note_color_start": [
+            1.0,
+            0.535476148,
+            0.492857367
+        ],
+        "note_color_end": [
+            0.29583326,
+            0.193452239,
+            0.5267855
+        ],
+        "endpoint": 780.0,
+        "hash": "06c2ee533d9f160f390656058a52d552c0423c88b076972738c5e8ec2f56833f",
+        "version": null,
+        "tt_id": 8086,
+        "pixeldrain_id": null,
+        "download_path": "05477.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1531369943516577964,
+        "size": 16360298
     }
 ]

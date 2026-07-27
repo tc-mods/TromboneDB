@@ -235904,5 +235904,46 @@
         "user_id": 196324916864352257,
         "message_id": 1531039943143587993,
         "size": 11128975
+    },
+    {
+        "filename": "05475. Playing God - Polyphia [Madpie24].zip",
+        "id": "05475",
+        "filelist": [
+            "playing_god/",
+            "playing_god/bg.png",
+            "playing_god/song.ogg",
+            "playing_god/song.tmb"
+        ],
+        "name": "Playing God",
+        "shortName": "Playing God",
+        "trackRef": "playing_2abzyj",
+        "author": "Polyphia",
+        "year": "2022",
+        "genre": "Progressive Rock",
+        "description": "From the album \"Remember That You Will Die\"",
+        "tempo": 274.0,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.202976331,
+            0.202142641,
+            0.201190844
+        ],
+        "note_color_end": [
+            0.9029766,
+            0.6994049,
+            0.4375
+        ],
+        "endpoint": 938.0,
+        "hash": "886e06aac91e1d6166192e1b34abc23cb1d5896935021f7647ffa94d5d024904",
+        "version": null,
+        "tt_id": 8084,
+        "pixeldrain_id": null,
+        "download_path": "05475.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1531318517780185189,
+        "size": 6278756
     }
 ]

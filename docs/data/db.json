@@ -236027,5 +236027,46 @@
         "user_id": 226382545204412416,
         "message_id": 1531369943516577964,
         "size": 16360298
+    },
+    {
+        "filename": "05478. Overthinking - HOSHINOHA [Madpie24].zip",
+        "id": "05478",
+        "filelist": [
+            "overthinking/",
+            "overthinking/bg.png",
+            "overthinking/song.ogg",
+            "overthinking/song.tmb"
+        ],
+        "name": "Overthinking",
+        "shortName": "Overthinking",
+        "trackRef": "overthi_w3zo9r",
+        "author": "HOSHINOHA",
+        "year": "2026",
+        "genre": "Vocaloid",
+        "description": "Visuals: Menma (Enaic31)\r\nVocals: 初音ミク / Hatsune Miku v2",
+        "tempo": 160.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 225,
+        "note_color_start": [
+            0.399404466,
+            0.6277384,
+            0.442261517
+        ],
+        "note_color_end": [
+            0.111309811,
+            0.178571209,
+            0.3630953
+        ],
+        "endpoint": 486.0,
+        "hash": "2348a2b6be035dba662442db3a28c68a4dfbfe0096f08adbd92bc4ec29417032",
+        "version": null,
+        "tt_id": 8087,
+        "pixeldrain_id": null,
+        "download_path": "05478.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1531749864394719478,
+        "size": 4275852
     }
 ]

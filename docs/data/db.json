@@ -236068,5 +236068,128 @@
         "user_id": 226382545204412416,
         "message_id": 1531749864394719478,
         "size": 4275852
+    },
+    {
+        "filename": "05479. 2代目閻魔 - Enma the Second ft. Kasane Teto - 読谷あかね - Yomitan Akane [silver].zip",
+        "id": "05479",
+        "filelist": [
+            "Enma the Second/",
+            "Enma the Second/bg.mp4",
+            "Enma the Second/song.ogg",
+            "Enma the Second/song.tmb"
+        ],
+        "name": "2代目閻魔 / Enma the Second ft. Kasane Teto",
+        "shortName": "Enma the Second",
+        "trackRef": "Enma the Second",
+        "author": "読谷あかね / Yomitan Akane",
+        "year": 2024,
+        "genre": "vocaloid",
+        "description": "descriptive",
+        "tempo": 135,
+        "timesig": 2,
+        "difficulty": 8,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.929411768913269,
+            0.290196090936661,
+            0.337254911661148
+        ],
+        "note_color_end": [
+            0.74117648601532,
+            0.756862759590149,
+            0.87058824300766
+        ],
+        "endpoint": 431,
+        "hash": "f7dc76e990f95d4844d01bebc47fe5b878eccf7d44f296a9ac1b0d5786e74c9a",
+        "version": null,
+        "tt_id": 8088,
+        "pixeldrain_id": null,
+        "download_path": "05479.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1532160310130245705,
+        "size": 11211729
+    },
+    {
+        "filename": "05480. 散り散り ft. 重音テト - Chilly ft. Kasane Teto  - 読谷あかね - Yomitan Akane [silver].zip",
+        "id": "05480",
+        "filelist": [
+            "Chilly/",
+            "Chilly/bg.mp4",
+            "Chilly/song.ogg",
+            "Chilly/song.tmb"
+        ],
+        "name": "散り散り ft. 重音テト / Chilly ft. Kasane Teto ",
+        "shortName": "Chilly",
+        "trackRef": "chilly",
+        "author": "読谷あかね / Yomitan Akane",
+        "year": 2023,
+        "genre": "vocaloid",
+        "description": "teto rap god",
+        "tempo": 184,
+        "timesig": 2,
+        "difficulty": 9,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.4765625,
+            0.4765625,
+            0.4765625
+        ],
+        "note_color_end": [
+            0.83203125,
+            0.83203125,
+            0.83203125
+        ],
+        "endpoint": 350,
+        "hash": "405cfa5ae5f24ab8f667175913998a37219e1be06168698e4d19ccba1d93d823",
+        "version": null,
+        "tt_id": 8089,
+        "pixeldrain_id": null,
+        "download_path": "05480.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1532160434734370900,
+        "size": 3962833
+    },
+    {
+        "filename": "05481. Reach for the Stars V3 - Cash Cash, Tomoya Ohtani, Susumu Nishikawa, Masuo [Sleeby Maddy~].zip",
+        "id": "05481",
+        "filelist": [
+            "Sonic Colors - Reach for the Stars V3/",
+            "Sonic Colors - Reach for the Stars V3/bg.png",
+            "Sonic Colors - Reach for the Stars V3/song.ogg",
+            "Sonic Colors - Reach for the Stars V3/song.tmb"
+        ],
+        "name": "Reach for the Stars V3",
+        "shortName": "Reach for the Stars V3",
+        "trackRef": "Sonic Colors - Reach for the Stars V3",
+        "author": "Cash Cash, Tomoya Ohtani, Susumu Nishikawa, Masuo",
+        "year": "2010",
+        "genre": "OST",
+        "description": "Rechart by Random Noise, fixes by SleebyFluffball ",
+        "tempo": 203.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.0,
+            0.7490196,
+            1.0
+        ],
+        "note_color_end": [
+            0.156862751,
+            0.196078435,
+            0.784313738
+        ],
+        "endpoint": 823.0,
+        "hash": "1f9207406f10fc4083d8b86585c5f3fafb8b365a3dc69b6144b52f0ca06754d0",
+        "version": null,
+        "tt_id": 8090,
+        "pixeldrain_id": null,
+        "download_path": "05481.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1532170756748873873,
+        "size": 4933015
     }
 ]

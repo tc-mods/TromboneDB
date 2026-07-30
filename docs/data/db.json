@@ -236232,5 +236232,46 @@
         "user_id": 616675402282434583,
         "message_id": 1532359189186347121,
         "size": 4355538
+    },
+    {
+        "filename": "05483. LE SSERAFIM-smart - LE SSERAFIM [Jiwoo].zip",
+        "id": "05483",
+        "filelist": [
+            "LE SSERAFIM SMART/",
+            "LE SSERAFIM SMART/bg.mp4",
+            "LE SSERAFIM SMART/song.ogg",
+            "LE SSERAFIM SMART/song.tmb"
+        ],
+        "name": "LE SSERAFIM-smart",
+        "shortName": "LE SSERAFIM-smart",
+        "trackRef": "lessera_29pbk7",
+        "author": "LE SSERAFIM",
+        "year": "2026",
+        "genre": "K-POP",
+        "description": "Make from QWER Taiwan Bawige",
+        "tempo": 113.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 308.0,
+        "hash": "f2efa601c6966dce872faf2accdc989515b0286e704faf57ae1264fbc37a7b9c",
+        "version": null,
+        "tt_id": 8092,
+        "pixeldrain_id": null,
+        "download_path": "05483.zip",
+        "charter": "Jiwoo",
+        "user_id": 869624708990136361,
+        "message_id": 1532374668739084349,
+        "size": 26767492
     }
 ]

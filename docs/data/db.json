@@ -236355,5 +236355,87 @@
         "user_id": 821374351039397889,
         "message_id": 1532421322377007237,
         "size": 2608852
+    },
+    {
+        "filename": "05486. 合わせ鏡のウワサ - Rumors of the Infinity mirror ft. Kasane Teto - 読谷あかね - Yomitan Akane [silver].zip",
+        "id": "05486",
+        "filelist": [
+            "Rumors of the Infinity Mirror/",
+            "Rumors of the Infinity Mirror/bg.mp4",
+            "Rumors of the Infinity Mirror/song.ogg",
+            "Rumors of the Infinity Mirror/song.tmb"
+        ],
+        "name": "合わせ鏡のウワサ - Rumors of the Infinity mirror ft. Kasane Teto",
+        "shortName": "Rumors of the Infinity mirror",
+        "trackRef": "Rumors of the Infinity mirror",
+        "author": "読谷あかね / Yomitan Akane",
+        "year": 2025,
+        "genre": "vocaloid",
+        "description": "spoopy teto",
+        "tempo": 130,
+        "timesig": 2,
+        "difficulty": 6,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.196078434586525,
+            0.274509817361832,
+            0.317647069692612
+        ],
+        "note_color_end": [
+            0.717647075653076,
+            0.282352954149246,
+            0.337254911661148
+        ],
+        "endpoint": 356,
+        "hash": "28e5d1e02b85335fc9583df20bc4a334f43f7b0c6e435189f461b02ce512ea28",
+        "version": null,
+        "tt_id": 8096,
+        "pixeldrain_id": null,
+        "download_path": "05486.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1532431553697812692,
+        "size": 8369269
+    },
+    {
+        "filename": "05487. 合わせ鏡のウワサ - Rumors of the Infinity mirror ft. Kasane Teto - 読谷あかね - Yomitan Akane [silver].zip",
+        "id": "05487",
+        "filelist": [
+            "Rumors of the Infinity Mirror/",
+            "Rumors of the Infinity Mirror/bg.mp4",
+            "Rumors of the Infinity Mirror/song.ogg",
+            "Rumors of the Infinity Mirror/song.tmb"
+        ],
+        "name": "合わせ鏡のウワサ - Rumors of the Infinity mirror ft. Kasane Teto",
+        "shortName": "Rumors of the Infinity mirror",
+        "trackRef": "Rumors of the Infinity mirror",
+        "author": "読谷あかね / Yomitan Akane",
+        "year": 2025,
+        "genre": "vocaloid",
+        "description": "spoopy teto",
+        "tempo": 130,
+        "timesig": 2,
+        "difficulty": 6,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.196078434586525,
+            0.274509817361832,
+            0.317647069692612
+        ],
+        "note_color_end": [
+            0.717647075653076,
+            0.282352954149246,
+            0.337254911661148
+        ],
+        "endpoint": 356,
+        "hash": "28e5d1e02b85335fc9583df20bc4a334f43f7b0c6e435189f461b02ce512ea28",
+        "version": null,
+        "tt_id": 8096,
+        "pixeldrain_id": null,
+        "download_path": "05487.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1532431896968036506,
+        "size": 8369269
     }
 ]

@@ -236273,5 +236273,87 @@
         "user_id": 869624708990136361,
         "message_id": 1532374668739084349,
         "size": 26767492
+    },
+    {
+        "filename": "05484. iluvslapbass - prodBigMike [Madpie24].zip",
+        "id": "05484",
+        "filelist": [
+            "iluvslapbass/",
+            "iluvslapbass/bg.mp4",
+            "iluvslapbass/song.ogg",
+            "iluvslapbass/song.tmb"
+        ],
+        "name": "iluvslapbass",
+        "shortName": "iluvslapbass",
+        "trackRef": "iluvsla_ej23if",
+        "author": "prodBigMike",
+        "year": "2025",
+        "genre": "Electronic",
+        "description": "3d by fuch",
+        "tempo": 260.0,
+        "timesig": 4,
+        "difficulty": 9,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.18154788,
+            0.589047551,
+            0.9511904
+        ],
+        "note_color_end": [
+            1.0,
+            0.9196433,
+            0.6696426
+        ],
+        "endpoint": 492.0,
+        "hash": "97acac2f2b5d01aaf9d7b10434cb74ed4932e2b76c0648287f5baf9700f08823",
+        "version": null,
+        "tt_id": 8093,
+        "pixeldrain_id": null,
+        "download_path": "05484.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1532405799840780309,
+        "size": 9326970
+    },
+    {
+        "filename": "05485. Dodo's Coming!! - Super Mario RPG - Yuko Shimomura [Nagiii].zip",
+        "id": "05485",
+        "filelist": [
+            "dodos_coming/",
+            "dodos_coming/bg.png",
+            "dodos_coming/song.ogg",
+            "dodos_coming/song.tmb"
+        ],
+        "name": "Dodo's Coming!! - Super Mario RPG",
+        "shortName": "Dodo's Coming!!",
+        "trackRef": "dodosco_7kzqyk",
+        "author": "Yuko Shimomura",
+        "year": 1996,
+        "genre": "VGM",
+        "description": "You're a statue.",
+        "tempo": 84.28,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.949999988079071,
+            0.219999998807907,
+            0.349999994039536
+        ],
+        "note_color_end": [
+            0.150000005960464,
+            1.0,
+            1.0
+        ],
+        "endpoint": 80,
+        "hash": "6eafa3fcfb532a7b9b06912da73680c73a03e25ffa853283cb965426669ead7c",
+        "version": null,
+        "tt_id": 8094,
+        "pixeldrain_id": null,
+        "download_path": "05485.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1532421322377007237,
+        "size": 2608852
     }
 ]

@@ -236191,5 +236191,46 @@
         "user_id": 128645240415453186,
         "message_id": 1532170756748873873,
         "size": 4933015
+    },
+    {
+        "filename": "05482. UNTOUCHABLE ( Final Ver. ) - ITZY [doogbook479].zip",
+        "id": "05482",
+        "filelist": [
+            "untouchable/",
+            "untouchable/bg.png",
+            "untouchable/song.ogg",
+            "untouchable/song.tmb"
+        ],
+        "name": "UNTOUCHABLE ( Final Ver. )",
+        "shortName": "UNTOUCHABLE",
+        "trackRef": "untouch_149vyc",
+        "author": "ITZY",
+        "year": "2024",
+        "genre": "KPOP",
+        "description": "Artist: ITZY\r\nSong: UNTOUCHABLE ( Final Ver. ) \r\nAlbum: GOLD\r\n️Released: 2024.10.15\n/Charted by doogbook479",
+        "tempo": 105.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 325,
+        "note_color_start": [
+            0.904761,
+            0.08035725,
+            0.0982143953
+        ],
+        "note_color_end": [
+            0.0595236644,
+            0.047618974,
+            0.0565477647
+        ],
+        "endpoint": 344.0,
+        "hash": "bb924d14539eadca5c1105cba931273eff93669c66e4e27eebe76b98282b89c9",
+        "version": null,
+        "tt_id": 8091,
+        "pixeldrain_id": null,
+        "download_path": "05482.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1532359189186347121,
+        "size": 4355538
     }
 ]

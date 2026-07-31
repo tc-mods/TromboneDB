@@ -236519,5 +236519,46 @@
         "user_id": 616675402282434583,
         "message_id": 1532768371622412494,
         "size": 28334749
+    },
+    {
+        "filename": "05490. Battle 1 from Super Bomberman 2 - Yasuhito Fukuda [Nagiii].zip",
+        "id": "05490",
+        "filelist": [
+            "battle_1/",
+            "battle_1/bg.png",
+            "battle_1/song.ogg",
+            "battle_1/song.tmb"
+        ],
+        "name": "Battle 1 from Super Bomberman 2",
+        "shortName": "Battle 1",
+        "trackRef": "2iplm3w4xi",
+        "author": "Yasuhito Fukuda",
+        "year": "1994",
+        "genre": "Soundtrack",
+        "description": "The battle stage with no gimmicks.",
+        "tempo": 156.25,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 245.0,
+        "hash": "5b5a487b09f283c9f5a7ec31ccbdb5fe8a87b61a3d729d148f8e5a3688f542f5",
+        "version": null,
+        "tt_id": 8099,
+        "pixeldrain_id": null,
+        "download_path": "05490.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1532798053319442556,
+        "size": 2630929
     }
 ]

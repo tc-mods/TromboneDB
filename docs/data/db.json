@@ -236478,5 +236478,46 @@
         "user_id": 196324916864352257,
         "message_id": 1532483452824453241,
         "size": 8369270
+    },
+    {
+        "filename": "05489. XOXZ ( First Line Only Ver. ) - IVE [doogbook479].zip",
+        "id": "05489",
+        "filelist": [
+            "xoxz_/",
+            "xoxz_/bg.mp4",
+            "xoxz_/song.ogg",
+            "xoxz_/song.tmb"
+        ],
+        "name": "XOXZ ( First Line Only Ver. )",
+        "shortName": "XOXZ ( First Line Only Ver. )",
+        "trackRef": "xoxzfir_6w7g5n",
+        "author": "IVE",
+        "year": "2025",
+        "genre": "KPOP",
+        "description": "XOXZ ( First Line Only Ver. ) \nmusic from \nThreads: zxxmozzz\n/Charted by doogbook479",
+        "tempo": 98.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 350,
+        "note_color_start": [
+            0.660714746,
+            0.363097548,
+            0.8928574
+        ],
+        "note_color_end": [
+            0.6130956,
+            0.866071343,
+            1.0
+        ],
+        "endpoint": 249.0,
+        "hash": "7bb7d7927c2ed82645856e8799c02799d0d21b767fb6a297b899ceb37f965c48",
+        "version": null,
+        "tt_id": 8098,
+        "pixeldrain_id": null,
+        "download_path": "05489.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1532768371622412494,
+        "size": 28334749
     }
 ]

@@ -236723,5 +236723,87 @@
         "user_id": 216807674187087873,
         "message_id": 1533241425188356167,
         "size": 15716351
+    },
+    {
+        "filename": "05495. Dawn Breaking - ZaraNyaa [ZaraNyaa].zip",
+        "id": "05495",
+        "filelist": [
+            "Dawn Breaking/",
+            "Dawn Breaking/bg.png",
+            "Dawn Breaking/song.ogg",
+            "Dawn Breaking/song.tmb"
+        ],
+        "name": "Dawn Breaking",
+        "shortName": "Dawn Breaking",
+        "trackRef": "dawnbreakingsss2",
+        "author": "ZaraNyaa",
+        "year": 2026,
+        "genre": "idk man i just made a thing",
+        "description": "Qualifiers Custom Song for SSS2 by ZaraNyaa",
+        "tempo": 140,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 250,
+        "note_color_start": [
+            0,
+            0.627451002597809,
+            1
+        ],
+        "note_color_end": [
+            0.662745118141174,
+            0.662745118141174,
+            0.662745118141174
+        ],
+        "endpoint": 568,
+        "hash": "3c3b0334d30cf3fd2d975c97aae0bc0b62177c2142a857c33912822ae84a8c6a",
+        "version": null,
+        "tt_id": 8104,
+        "pixeldrain_id": null,
+        "download_path": "05495.zip",
+        "charter": "ZaraNyaa",
+        "user_id": 297151169707376641,
+        "message_id": 1533247527569068253,
+        "size": 8540441
+    },
+    {
+        "filename": "05496. Dawn Breaking - ZaraNyaa [ZaraNyaa].zip",
+        "id": "05496",
+        "filelist": [
+            "Dawn Breaking/",
+            "Dawn Breaking/bg.png",
+            "Dawn Breaking/song.ogg",
+            "Dawn Breaking/song.tmb"
+        ],
+        "name": "Dawn Breaking",
+        "shortName": "Dawn Breaking",
+        "trackRef": "dawnbreakingsss2",
+        "author": "ZaraNyaa",
+        "year": 2026,
+        "genre": "idk man i just made a thing",
+        "description": "Qualifiers Custom Song for SSS2 by ZaraNyaa",
+        "tempo": 140,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 250,
+        "note_color_start": [
+            0,
+            0.627451002597809,
+            1
+        ],
+        "note_color_end": [
+            0.662745118141174,
+            0.662745118141174,
+            0.662745118141174
+        ],
+        "endpoint": 568,
+        "hash": "3c3b0334d30cf3fd2d975c97aae0bc0b62177c2142a857c33912822ae84a8c6a",
+        "version": null,
+        "tt_id": 8104,
+        "pixeldrain_id": null,
+        "download_path": "05496.zip",
+        "charter": "ZaraNyaa",
+        "user_id": 297151169707376641,
+        "message_id": 1533250095305461903,
+        "size": 8540441
     }
 ]

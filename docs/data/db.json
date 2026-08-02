@@ -236887,5 +236887,251 @@
         "user_id": 196324916864352257,
         "message_id": 1533488079107657981,
         "size": 6459830
+    },
+    {
+        "filename": "05499. Super Mario Galaxy - Space Fantasy - Mahito Yokota [Nagiii].zip",
+        "id": "05499",
+        "filelist": [
+            "space_fantasy/",
+            "space_fantasy/bg.png",
+            "space_fantasy/song.ogg",
+            "space_fantasy/song.tmb"
+        ],
+        "name": "Super Mario Galaxy - Space Fantasy",
+        "shortName": "Space Fantasy",
+        "trackRef": "j7o7fq4igr",
+        "author": "Mahito Yokota",
+        "year": "2007",
+        "genre": "SOUNDTRACK",
+        "description": "The song has a relaxing, cosmic feel.",
+        "tempo": 144.0,
+        "timesig": 4,
+        "difficulty": 2,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 241.25,
+        "hash": "22d1cddc7a8d16c298ef8ae6c366f54c81815baf7fee999cbab71a385bbc3f73",
+        "version": null,
+        "tt_id": 8107,
+        "pixeldrain_id": null,
+        "download_path": "05499.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533613756301709454,
+        "size": 3626889
+    },
+    {
+        "filename": "05500. Corkboard - Kirby Super Star - Jun Ishikawa [Nagiii].zip",
+        "id": "05500",
+        "filelist": [
+            "corkboard/",
+            "corkboard/bg.png",
+            "corkboard/song.ogg",
+            "corkboard/song.tmb"
+        ],
+        "name": "Corkboard - Kirby Super Star",
+        "shortName": "Corkboard",
+        "trackRef": "corkboa_aqgw5u",
+        "author": "Jun Ishikawa",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "Game Select screen. Poyo!",
+        "tempo": 135.637,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 69.25,
+        "hash": "798c5936b4ba2f574d62467fa5fcc5482527679c61e1c3fd9db306858c8fcb8b",
+        "version": null,
+        "tt_id": 8108,
+        "pixeldrain_id": null,
+        "download_path": "05500.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533613983720931515,
+        "size": 765769
+    },
+    {
+        "filename": "05501. Dyna Blade- Map - Kirby Super Star - Jun Ishikawa [Nagiii].zip",
+        "id": "05501",
+        "filelist": [
+            "dyna_blade_map/",
+            "dyna_blade_map/bg.png",
+            "dyna_blade_map/song.ogg",
+            "dyna_blade_map/song.tmb"
+        ],
+        "name": "Dyna Blade: Map - Kirby Super Star",
+        "shortName": "Dyna Blade: Map",
+        "trackRef": "dynabla_uo32kw",
+        "author": "Jun Ishikawa",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "A short, upbeat theme. Poyo!",
+        "tempo": 153.187,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 78.0,
+        "hash": "88aa3afe322b1d375bc6f6ad07bae359214e6c72dea4ca4f927e815f2b6d8f3b",
+        "version": null,
+        "tt_id": 8109,
+        "pixeldrain_id": null,
+        "download_path": "05501.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533614195617042546,
+        "size": 716066
+    },
+    {
+        "filename": "05502. Mallow Castle (Castle Area) - Kirby Super Star - Jun Ishikawa [Nagiii].zip",
+        "id": "05502",
+        "filelist": [
+            "mallow_castle/",
+            "mallow_castle/bg.png",
+            "mallow_castle/song.ogg",
+            "mallow_castle/song.tmb"
+        ],
+        "name": "Mallow Castle (Castle Area) - Kirby Super Star",
+        "shortName": "Mallow Castle",
+        "trackRef": "mallowc_aj61pr",
+        "author": "Jun Ishikawa",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "A slow, relaxed stage theme",
+        "tempo": 103.025,
+        "timesig": 4,
+        "difficulty": 3,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 100.25,
+        "hash": "af21729e9720e43748b7daf021aa5f0bbad1965a133fea551309f30fdcf98409",
+        "version": null,
+        "tt_id": 8110,
+        "pixeldrain_id": null,
+        "download_path": "05502.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533614404170547391,
+        "size": 1466906
+    },
+    {
+        "filename": "05503. Iceberg Map - Kirby's Dream Land 3 - Jun Ishikawa [Nagiii].zip",
+        "id": "05503",
+        "filelist": [
+            "iceberg_map/",
+            "iceberg_map/bg.png",
+            "iceberg_map/song.ogg",
+            "iceberg_map/song.tmb"
+        ],
+        "name": "Iceberg Map - Kirby's Dream Land 3",
+        "shortName": "Iceberg Map",
+        "trackRef": "iceberg_5el8sk",
+        "author": "Jun Ishikawa",
+        "year": "1997",
+        "genre": "VGM",
+        "description": "An ominous track.",
+        "tempo": 110.154,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 233,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 69.0,
+        "hash": "f8df2147b66014fbd7893538669b2144e0d54038853e67e9eeb11ac57b4bd674",
+        "version": null,
+        "tt_id": 8111,
+        "pixeldrain_id": null,
+        "download_path": "05503.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533614751513575516,
+        "size": 922929
+    },
+    {
+        "filename": "05504. Iceberg Map (Bass) - Kirby's Dream Land 3 - Jun Ishikawa [Nagiii].zip",
+        "id": "05504",
+        "filelist": [
+            "iceberg_map_bass/",
+            "iceberg_map_bass/bg.png",
+            "iceberg_map_bass/song.ogg",
+            "iceberg_map_bass/song.tmb"
+        ],
+        "name": "Iceberg Map (Bass) - Kirby's Dream Land 3",
+        "shortName": "Iceberg Map (Bass)",
+        "trackRef": "iceberg_o5k1qu",
+        "author": "Jun Ishikawa",
+        "year": "1997",
+        "genre": "VGM",
+        "description": "An ominous track of octave jumps!",
+        "tempo": 110.154,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 233,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 69.0,
+        "hash": "6fbfbba935b12d457282e23ce82deb5c4c60870d5d373142899f27b8a5f5af7c",
+        "version": null,
+        "tt_id": 8112,
+        "pixeldrain_id": null,
+        "download_path": "05504.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533615001468801146,
+        "size": 923236
     }
 ]

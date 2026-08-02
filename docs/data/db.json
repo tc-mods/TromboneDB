@@ -236805,5 +236805,87 @@
         "user_id": 297151169707376641,
         "message_id": 1533250095305461903,
         "size": 8540441
+    },
+    {
+        "filename": "05497. Flower Dance (nightcore) (v3) - DJ Okawari [silver].zip",
+        "id": "05497",
+        "filelist": [
+            "flowerdancev3/",
+            "flowerdancev3/bg.png",
+            "flowerdancev3/song.ogg",
+            "flowerdancev3/song.tmb"
+        ],
+        "name": "Flower Dance (nightcore) (v3)",
+        "shortName": "Flower Dance v3",
+        "trackRef": "flowerdancev3",
+        "author": "DJ Okawari",
+        "year": 2010,
+        "genre": "Other",
+        "description": "fast and improved chart | charted by paper2222, silver edit",
+        "tempo": 220,
+        "timesig": 727,
+        "difficulty": 10,
+        "savednotespacing": 169,
+        "note_color_start": [
+            0,
+            0.749019622802734,
+            1
+        ],
+        "note_color_end": [
+            0.180392161011696,
+            0.313725501298904,
+            0.862745106220245
+        ],
+        "endpoint": 879,
+        "hash": "3e6b9b804b7959b833b92bcc04c76bb87588475d83c75db90d68d98eeb66f70f",
+        "version": null,
+        "tt_id": 8106,
+        "pixeldrain_id": null,
+        "download_path": "05497.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1533487659786440916,
+        "size": 6459830
+    },
+    {
+        "filename": "05498. Flower Dance (nightcore) (v3) - DJ Okawari [silver].zip",
+        "id": "05498",
+        "filelist": [
+            "flowerdancev3/",
+            "flowerdancev3/bg.png",
+            "flowerdancev3/song.ogg",
+            "flowerdancev3/song.tmb"
+        ],
+        "name": "Flower Dance (nightcore) (v3)",
+        "shortName": "Flower Dance v3",
+        "trackRef": "flowerdancev3",
+        "author": "DJ Okawari",
+        "year": 2010,
+        "genre": "Other",
+        "description": "fast and improved chart | charted by paper2222, silver edit",
+        "tempo": 220,
+        "timesig": 727,
+        "difficulty": 10,
+        "savednotespacing": 169,
+        "note_color_start": [
+            0,
+            0.749019622802734,
+            1
+        ],
+        "note_color_end": [
+            0.180392161011696,
+            0.313725501298904,
+            0.862745106220245
+        ],
+        "endpoint": 879,
+        "hash": "3e6b9b804b7959b833b92bcc04c76bb87588475d83c75db90d68d98eeb66f70f",
+        "version": null,
+        "tt_id": 8106,
+        "pixeldrain_id": null,
+        "download_path": "05498.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1533488079107657981,
+        "size": 6459830
     }
 ]

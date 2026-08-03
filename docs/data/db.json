@@ -237256,5 +237256,46 @@
         "user_id": 821374351039397889,
         "message_id": 1533662548065386598,
         "size": 716172
+    },
+    {
+        "filename": "05508. Andy Astroids- - Earthworm Jim (Sega Genesis) - Mark Miller [Nagiii].zip",
+        "id": "05508",
+        "filelist": [
+            "andyast_glm2h9/",
+            "andyast_glm2h9/bg.png",
+            "andyast_glm2h9/song.ogg",
+            "andyast_glm2h9/song.tmb"
+        ],
+        "name": "Andy Astroids? - Earthworm Jim (Sega Genesis)",
+        "shortName": "Andy Asteroids?",
+        "trackRef": "andyast_glm2h9",
+        "author": "Mark Miller",
+        "year": "1994",
+        "genre": "VGM",
+        "description": "WOOOOOOHHHAAAA NELLY",
+        "tempo": 144.401,
+        "timesig": 4,
+        "difficulty": 9,
+        "savednotespacing": 250,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 251.0,
+        "hash": "bd41d15a9a7baeb90c909d8e7daf6acce5b7e63722f328cb527e137fab6d2883",
+        "version": null,
+        "tt_id": 8114,
+        "pixeldrain_id": null,
+        "download_path": "05508.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533856620545577183,
+        "size": 1296435
     }
 ]

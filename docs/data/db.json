@@ -237174,5 +237174,87 @@
         "user_id": 821374351039397889,
         "message_id": 1533623129811849427,
         "size": 3025720
+    },
+    {
+        "filename": "05506. Andy Astroids- - Earthworm Jim (Sega Genesis) - Mark Miller [Nagiii].zip",
+        "id": "05506",
+        "filelist": [
+            "andyast_glm2h9/",
+            "andyast_glm2h9/bg.png",
+            "andyast_glm2h9/song.ogg",
+            "andyast_glm2h9/song.tmb"
+        ],
+        "name": "Andy Astroids? - Earthworm Jim (Sega Genesis)",
+        "shortName": "Andy Asteroids?",
+        "trackRef": "andyast_glm2h9",
+        "author": "Mark Miller",
+        "year": "1994",
+        "genre": "VGM",
+        "description": "WOOOOOOHHHAAAA NELLY",
+        "tempo": 144.401,
+        "timesig": 4,
+        "difficulty": 9,
+        "savednotespacing": 250,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 251.0,
+        "hash": "bd41d15a9a7baeb90c909d8e7daf6acce5b7e63722f328cb527e137fab6d2883",
+        "version": null,
+        "tt_id": 8114,
+        "pixeldrain_id": null,
+        "download_path": "05506.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533660481078825241,
+        "size": 4829701
+    },
+    {
+        "filename": "05507. Dyna Blade- Map - Kirby Super Star - Jun Ishikawa [Nagiii].zip",
+        "id": "05507",
+        "filelist": [
+            "dyna_blade_map_bass/",
+            "dyna_blade_map_bass/bg.png",
+            "dyna_blade_map_bass/song.ogg",
+            "dyna_blade_map_bass/song.tmb"
+        ],
+        "name": "Dyna Blade: Map - Kirby Super Star",
+        "shortName": "Dyna Blade: Map (Bass)",
+        "trackRef": "dynabla_obmvxo",
+        "author": "Jun Ishikawa",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "A short, upbeat theme. Poyo!",
+        "tempo": 153.187,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 78.0,
+        "hash": "500bb65299ceedbf5ffb405b9309dff39f58e2ed85aa0cf0e965fc6d5607e51e",
+        "version": null,
+        "tt_id": 8115,
+        "pixeldrain_id": null,
+        "download_path": "05507.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533662548065386598,
+        "size": 716172
     }
 ]

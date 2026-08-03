@@ -237133,5 +237133,46 @@
         "user_id": 821374351039397889,
         "message_id": 1533615001468801146,
         "size": 923236
+    },
+    {
+        "filename": "05505. Cocoa Cave - Kirby Super Star - Jun Ishikawa [Nagiii].zip",
+        "id": "05505",
+        "filelist": [
+            "cocoa_cave/",
+            "cocoa_cave/bg.png",
+            "cocoa_cave/song.ogg",
+            "cocoa_cave/song.tmb"
+        ],
+        "name": "Cocoa Cave - Kirby Super Star",
+        "shortName": "Cocoa Cave",
+        "trackRef": "cocoaca_7v2rdu",
+        "author": "Jun Ishikawa",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "Chocolate!!",
+        "tempo": 165.904,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 218,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 184.0,
+        "hash": "1ba8866f0939d12496087c6a061be688d8412bc535007eb7c8e5d9a421d4ae24",
+        "version": null,
+        "tt_id": 8113,
+        "pixeldrain_id": null,
+        "download_path": "05505.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533623129811849427,
+        "size": 3025720
     }
 ]

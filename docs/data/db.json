@@ -237338,5 +237338,87 @@
         "user_id": 821374351039397889,
         "message_id": 1533915624168755453,
         "size": 1649972
+    },
+    {
+        "filename": "05510. Iceberg Map - Kirby's Dream Land 3 - Jun Ishikawa [Nagiii].zip",
+        "id": "05510",
+        "filelist": [
+            "iceberg_mapv2/",
+            "iceberg_mapv2/bg.png",
+            "iceberg_mapv2/song.ogg",
+            "iceberg_mapv2/song.tmb"
+        ],
+        "name": "Iceberg Map - Kirby's Dream Land 3",
+        "shortName": "Iceberg Map",
+        "trackRef": "iceberg_5el8sk",
+        "author": "Jun Ishikawa",
+        "year": 1997,
+        "genre": "VGM",
+        "description": "An ominous track. (Edit from Madpie24)",
+        "tempo": 110.154,
+        "timesig": 4,
+        "difficulty": 2,
+        "savednotespacing": 233,
+        "note_color_start": [
+            0.949999988079071,
+            0.219999998807907,
+            0.349999994039536
+        ],
+        "note_color_end": [
+            0.150000005960464,
+            1.0,
+            1.0
+        ],
+        "endpoint": 69,
+        "hash": "4b614a6ed5a2b2c415dbe27a30a12f46cef150e0ed045b4378c1b9a6e779fcdb",
+        "version": null,
+        "tt_id": 8117,
+        "pixeldrain_id": null,
+        "download_path": "05510.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533928719499001957,
+        "size": 922927
+    },
+    {
+        "filename": "05511. Iceberg Map (Bass) - Kirby's Dream Land 3 - Jun Ishikawa [Nagiii].zip",
+        "id": "05511",
+        "filelist": [
+            "iceberg_map_bass/",
+            "iceberg_map_bass/bg.png",
+            "iceberg_map_bass/song.ogg",
+            "iceberg_map_bass/song.tmb"
+        ],
+        "name": "Iceberg Map (Bass) - Kirby's Dream Land 3",
+        "shortName": "Iceberg Map (Bass)",
+        "trackRef": "iceberg_o5k1qu",
+        "author": "Jun Ishikawa",
+        "year": "1997",
+        "genre": "VGM",
+        "description": "An ominous track of octave jumps!",
+        "tempo": 110.154,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 233,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 69.0,
+        "hash": "31234fe58de4c9a8d268cbdd990d42cb48f9b93bdf10bd16dfd3262d0002c181",
+        "version": null,
+        "tt_id": 8118,
+        "pixeldrain_id": null,
+        "download_path": "05511.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533936930394476718,
+        "size": 923266
     }
 ]

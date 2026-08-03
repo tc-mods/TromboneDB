@@ -237420,5 +237420,46 @@
         "user_id": 821374351039397889,
         "message_id": 1533936930394476718,
         "size": 923266
+    },
+    {
+        "filename": "05512. Coconut Mall - Mario Kart Wii - Asuka Ohta & Ryo Nagamatsu [Nagiii].zip",
+        "id": "05512",
+        "filelist": [
+            "coconut_x7svjf/",
+            "coconut_x7svjf/bg.png",
+            "coconut_x7svjf/song.ogg",
+            "coconut_x7svjf/song.tmb"
+        ],
+        "name": "Coconut Mall - Mario Kart Wii",
+        "shortName": "Coconut Mall",
+        "trackRef": "coconut_x7svjf",
+        "author": "Asuka Ohta & Ryo Nagamatsu",
+        "year": "2008",
+        "genre": "VGM",
+        "description": "Ha! Get Coconut Mall'd again!",
+        "tempo": 132.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 150.25,
+        "hash": "293f6871c8c44e9eba7d01c88a4246f9c033ff7a97e9b3270dddf9c094a63fb6",
+        "version": null,
+        "tt_id": 8119,
+        "pixeldrain_id": null,
+        "download_path": "05512.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1533946035980865667,
+        "size": 1649987
     }
 ]

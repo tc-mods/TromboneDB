@@ -237666,5 +237666,45 @@
         "user_id": 128645240415453186,
         "message_id": 1534636183852683437,
         "size": 4986609
+    },
+    {
+        "filename": "05518. Connect the World - Nanatsukaze [Electrostats].zip",
+        "id": "05518",
+        "filelist": [
+            "Connect the World/bg.png",
+            "Connect the World/song.ogg",
+            "Connect the World/song.tmb"
+        ],
+        "name": "Connect the World",
+        "shortName": "Connect the World",
+        "trackRef": "connecttheworldnana",
+        "author": "Nanatsukaze",
+        "year": 2025,
+        "genre": "Banger",
+        "description": "Yes (Electrostats and SleebyMaddy colab)",
+        "tempo": 246,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.949999988079071,
+            0.219999998807907,
+            0.349999994039536
+        ],
+        "note_color_end": [
+            0.150000005960464,
+            1,
+            1
+        ],
+        "endpoint": 812,
+        "hash": "101d755563554e887604289b6592c624f5d7827c5d2a3e3d0ae331b1ff3d3734",
+        "version": null,
+        "tt_id": 8125,
+        "pixeldrain_id": null,
+        "download_path": "05518.zip",
+        "charter": "Electrostats",
+        "user_id": 177527479609589760,
+        "message_id": 1534684635588722929,
+        "size": 5853826
     }
 ]

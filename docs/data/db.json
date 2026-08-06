@@ -237706,5 +237706,87 @@
         "user_id": 177527479609589760,
         "message_id": 1534684635588722929,
         "size": 5853826
+    },
+    {
+        "filename": "05519. Anpanman's March - Takashi Miki [Madpie24].zip",
+        "id": "05519",
+        "filelist": [
+            "anpanmans_march/",
+            "anpanmans_march/bg.png",
+            "anpanmans_march/song.ogg",
+            "anpanmans_march/song.tmb"
+        ],
+        "name": "Anpanman's March",
+        "shortName": "Anpanman's March",
+        "trackRef": "anpanma_w6zwdm",
+        "author": "Takashi Miki",
+        "year": "1988",
+        "genre": "Anime OST",
+        "description": "When you're overqualified for the job",
+        "tempo": 192.15,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.414285719,
+            0.615833044,
+            0.805357337
+        ],
+        "note_color_end": [
+            1.0,
+            0.9434525,
+            0.00595256267
+        ],
+        "endpoint": 532.0,
+        "hash": "817f6f637e6c374236ecfd51dc7b054a1e56786d42be73d76bba2d3bb4d554fe",
+        "version": null,
+        "tt_id": 8126,
+        "pixeldrain_id": null,
+        "download_path": "05519.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1534944019191169135,
+        "size": 6424966
+    },
+    {
+        "filename": "05520. Pop & Cute ft. Kasane Teto - Tokyo Manaka [silver].zip",
+        "id": "05520",
+        "filelist": [
+            "Pop and Cute/",
+            "Pop and Cute/bg.mp4",
+            "Pop and Cute/song.ogg",
+            "Pop and Cute/song.tmb"
+        ],
+        "name": "Pop & Cute ft. Kasane Teto",
+        "shortName": "Pop & Cute",
+        "trackRef": "pop and cute",
+        "author": "Tokyo Manaka",
+        "year": 2026,
+        "genre": "Vocaloid",
+        "description": "okay",
+        "tempo": 190,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0,
+            0
+        ],
+        "note_color_end": [
+            0.26953125,
+            0.26953125,
+            0.26953125
+        ],
+        "endpoint": 480,
+        "hash": "0469deca4b22bc60965693c4508086fa86f0e3c6e825107d099c732e8a32e98a",
+        "version": null,
+        "tt_id": 8127,
+        "pixeldrain_id": null,
+        "download_path": "05520.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1535059178777874503,
+        "size": 7900524
     }
 ]

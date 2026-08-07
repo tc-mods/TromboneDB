@@ -237829,5 +237829,46 @@
         "user_id": 196324916864352257,
         "message_id": 1535090126147821659,
         "size": 5730794
+    },
+    {
+        "filename": "05522. Pop & Cute ft. Kasane Teto - Tokyo Manaka [silver].zip",
+        "id": "05522",
+        "filelist": [
+            "Pop and Cute/",
+            "Pop and Cute/bg.mp4",
+            "Pop and Cute/song.ogg",
+            "Pop and Cute/song.tmb"
+        ],
+        "name": "Pop & Cute ft. Kasane Teto",
+        "shortName": "Pop & Cute",
+        "trackRef": "pop and cute",
+        "author": "Tokyo Manaka",
+        "year": 2026,
+        "genre": "Vocaloid",
+        "description": "okay",
+        "tempo": 190,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0,
+            0
+        ],
+        "note_color_end": [
+            0.26953125,
+            0.26953125,
+            0.26953125
+        ],
+        "endpoint": 480,
+        "hash": "a593d0f20a7f9a31dd3873beeeb010d29e9b32027642e4c92864cfe09f648c25",
+        "version": null,
+        "tt_id": 8129,
+        "pixeldrain_id": null,
+        "download_path": "05522.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1535396469677232150,
+        "size": 7900525
     }
 ]

@@ -237911,5 +237911,46 @@
         "user_id": 821374351039397889,
         "message_id": 1535859808987512996,
         "size": 5056070
+    },
+    {
+        "filename": "05524. Fight Against An Armed Boss - Yoko Shimomura [mееuw].zip",
+        "id": "05524",
+        "filelist": [
+            "fightagainstanarmedboss/",
+            "fightagainstanarmedboss/bg.png",
+            "fightagainstanarmedboss/song.ogg",
+            "fightagainstanarmedboss/song.tmb"
+        ],
+        "name": "Fight Against An Armed Boss",
+        "shortName": "Fight Against An Armed Boss",
+        "trackRef": "faaabkero",
+        "author": "Yoko Shimomura",
+        "year": 1996,
+        "genre": "VGM",
+        "description": "From the Super Mario RPG: Legend of the Seven Stars OST.\nchart by meeuw",
+        "tempo": 282.55,
+        "timesig": 4,
+        "difficulty": 8,
+        "savednotespacing": 280,
+        "note_color_start": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "note_color_end": [
+            0.0,
+            0.0,
+            1.0
+        ],
+        "endpoint": 571,
+        "hash": "e844421b62aadeb14a079ea3c16ac2b0a80a1e8e41b6485dd45f5a8fe868ba15",
+        "version": null,
+        "tt_id": 8131,
+        "pixeldrain_id": null,
+        "download_path": "05524.zip",
+        "charter": "mееuw",
+        "user_id": 288423643904475136,
+        "message_id": 1536070999978545153,
+        "size": 2751487
     }
 ]

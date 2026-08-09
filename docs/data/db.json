@@ -237870,5 +237870,46 @@
         "user_id": 196324916864352257,
         "message_id": 1535396469677232150,
         "size": 7900525
+    },
+    {
+        "filename": "05523. My Paradise ~ Monstro Town ~ (Super Mario RPG) - Yoko Shimomura [Nagiii].zip",
+        "id": "05523",
+        "filelist": [
+            "monstro_6v9j84/",
+            "monstro_6v9j84/bg.png",
+            "monstro_6v9j84/song.ogg",
+            "monstro_6v9j84/song.tmb"
+        ],
+        "name": "My Paradise ~ Monstro Town ~ (Super Mario RPG)",
+        "shortName": "Monstro Town",
+        "trackRef": "monstro_6v9j84",
+        "author": "Yoko Shimomura",
+        "year": "1996",
+        "genre": "VGM",
+        "description": "The tune for the peaceful cliffside town.",
+        "tempo": 168.067,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 294.0,
+        "hash": "68e30ebc30f3abb7a737f67c32c99727f673b283a1fc18a1131d205d95c91a6e",
+        "version": null,
+        "tt_id": 8130,
+        "pixeldrain_id": null,
+        "download_path": "05523.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1535859808987512996,
+        "size": 5056070
     }
 ]

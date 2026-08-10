@@ -237993,5 +237993,87 @@
         "user_id": 821374351039397889,
         "message_id": 1536145990317383702,
         "size": 806419
+    },
+    {
+        "filename": "05526. Kingdom Trial - Chrono Trigger - Yasunori Mitsuda [Nagiii].zip",
+        "id": "05526",
+        "filelist": [
+            "kingdom_fp406i/",
+            "kingdom_fp406i/bg.png",
+            "kingdom_fp406i/song.ogg",
+            "kingdom_fp406i/song.tmb"
+        ],
+        "name": "Kingdom Trial - Chrono Trigger",
+        "shortName": "Kingdom Trial",
+        "trackRef": "kingdom_fp406i",
+        "author": "Yasunori Mitsuda",
+        "year": "1995",
+        "genre": "VGM",
+        "description": "The kingdom finds you guilty...",
+        "tempo": 109.561,
+        "timesig": 4,
+        "difficulty": 3,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 194.0,
+        "hash": "5f5bfbe117c1421d713db8a11a929ec92eaca4c80b5728c65386ff679a554e1e",
+        "version": null,
+        "tt_id": 8133,
+        "pixeldrain_id": null,
+        "download_path": "05526.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1536435532739907718,
+        "size": 2251747
+    },
+    {
+        "filename": "05527. Milky Way Wishes - Kirby and the Rainbow Curse - Jun Ishikawa [Nagiii].zip",
+        "id": "05527",
+        "filelist": [
+            "milkywa_hjyfe9/",
+            "milkywa_hjyfe9/bg.png",
+            "milkywa_hjyfe9/song.ogg",
+            "milkywa_hjyfe9/song.tmb"
+        ],
+        "name": "Milky Way Wishes - Kirby and the Rainbow Curse",
+        "shortName": "Milky Way Wishes",
+        "trackRef": "milkywa_hjyfe9",
+        "author": "Jun Ishikawa",
+        "year": 2015,
+        "genre": "VGM",
+        "description": "A calming remake of one of the Kirby Super Star subgame intros.",
+        "tempo": 132.0,
+        "timesig": 4,
+        "difficulty": 2,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.949999988079071,
+            0.219999998807907,
+            0.349999994039536
+        ],
+        "note_color_end": [
+            0.150000005960464,
+            1.0,
+            1.0
+        ],
+        "endpoint": 265,
+        "hash": "30b272ae7dace0167ffb4dd080ed2b221b25b13f4961e85fe7ec8accefc4eaf7",
+        "version": null,
+        "tt_id": 8134,
+        "pixeldrain_id": null,
+        "download_path": "05527.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1536437917931671675,
+        "size": 5346873
     }
 ]

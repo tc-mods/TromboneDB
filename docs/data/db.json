@@ -238387,5 +238387,46 @@
         "user_id": 128645240415453186,
         "message_id": 1536747391712104551,
         "size": 11170683
+    },
+    {
+        "filename": "05536. NIGHTMARE INVITATION (Extended) - EBIMAYO [silver].zip",
+        "id": "05536",
+        "filelist": [
+            "NIGHTMARE INVITATION/",
+            "NIGHTMARE INVITATION/bg.png",
+            "NIGHTMARE INVITATION/song.ogg",
+            "NIGHTMARE INVITATION/song.tmb"
+        ],
+        "name": "NIGHTMARE INVITATION (Extended)",
+        "shortName": "NIGHTMARE INVITATION",
+        "trackRef": "NIGHTMARE INVITATION",
+        "author": "EBIMAYO",
+        "year": 2026,
+        "genre": "nearly atonal",
+        "description": "hah",
+        "tempo": 190,
+        "timesig": 2,
+        "difficulty": 10,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.490196079015732,
+            0.156862750649452,
+            0.113725490868092
+        ],
+        "note_color_end": [
+            0.858823537826538,
+            0.282352954149246,
+            0.235294118523598
+        ],
+        "endpoint": 854,
+        "hash": "7a9945ed1ff0a191b11421548d2ef8b3f08196dbfaaa55320b3b7bf82ec05596",
+        "version": null,
+        "tt_id": 8143,
+        "pixeldrain_id": null,
+        "download_path": "05536.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1536796789485731893,
+        "size": 5669617
     }
 ]

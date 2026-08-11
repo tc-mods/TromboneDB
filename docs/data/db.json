@@ -238346,5 +238346,46 @@
         "user_id": 288423643904475136,
         "message_id": 1536545379670040647,
         "size": 2751191
+    },
+    {
+        "filename": "05535. Move Forward (Traveller) - Sydosys [Sleeby Maddy~].zip",
+        "id": "05535",
+        "filelist": [
+            "Move Forward Traveller/",
+            "Move Forward Traveller/bg.png",
+            "Move Forward Traveller/song.ogg",
+            "Move Forward Traveller/song.tmb"
+        ],
+        "name": "Move Forward (Traveller)",
+        "shortName": "Move Forward",
+        "trackRef": "MoveForwardTraveller",
+        "author": "Sydosys",
+        "year": 2026,
+        "genre": "Electronic",
+        "description": "It's time to explore this world we're in... \nSSS2 Round of 16 Custom Song by Sydosys",
+        "tempo": 266.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.372549027204514,
+            0.501960754394531,
+            0.780392169952393
+        ],
+        "note_color_end": [
+            0.823529422283173,
+            0.909803926944733,
+            0.39215686917305
+        ],
+        "endpoint": 1380,
+        "hash": "89ffc7c840845dd1d31fd859780cc6645a6f2b292ba1fd975ddb4f7d043f3f8c",
+        "version": null,
+        "tt_id": 8142,
+        "pixeldrain_id": null,
+        "download_path": "05535.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1536747391712104551,
+        "size": 11170683
     }
 ]

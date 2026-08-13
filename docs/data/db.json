@@ -238675,5 +238675,46 @@
         "user_id": 216807674187087873,
         "message_id": 1537373746954764299,
         "size": 27363600
+    },
+    {
+        "filename": "05543. It's Not that Deep - Venjent [Madpie24].zip",
+        "id": "05543",
+        "filelist": [
+            "its_not_that_deep/",
+            "its_not_that_deep/bg.png",
+            "its_not_that_deep/song.ogg",
+            "its_not_that_deep/song.tmb"
+        ],
+        "name": "It's Not that Deep",
+        "shortName": "It's Not that Deep",
+        "trackRef": "itsnott_ar4xv3",
+        "author": "Venjent",
+        "year": "2026",
+        "genre": "DnB",
+        "description": "From the album \"Relieve the Pressure\"",
+        "tempo": 172.0,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 230,
+        "note_color_start": [
+            0.333333045,
+            0.0354764648,
+            0.7369047
+        ],
+        "note_color_end": [
+            0.8166667,
+            0.157737508,
+            0.1488096
+        ],
+        "endpoint": 582.0,
+        "hash": "8460c0d1e24f55817feed9a9b4a13b18f0ce6ef8e51d39e4fa118aa8a414db59",
+        "version": null,
+        "tt_id": 8150,
+        "pixeldrain_id": null,
+        "download_path": "05543.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1537489780562989168,
+        "size": 5337245
     }
 ]

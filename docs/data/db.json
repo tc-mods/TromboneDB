@@ -238592,5 +238592,88 @@
         "user_id": 821374351039397889,
         "message_id": 1537106689533280408,
         "size": 1712562
+    },
+    {
+        "filename": "05541. チョウチン少女 - Green wisteria  [Ethan].zip",
+        "id": "05541",
+        "filelist": [
+            "Chouchin Shojo/",
+            "Chouchin Shojo/bg.mp4",
+            "Chouchin Shojo/song.ogg",
+            "Chouchin Shojo/song.tmb"
+        ],
+        "name": "チョウチン少女",
+        "shortName": "Lantern Girl",
+        "trackRef": "Chouchin Shojo",
+        "author": "Green wisteria ",
+        "year": 2024,
+        "genre": "UTAU",
+        "description": "Respect",
+        "tempo": 142,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 197,
+        "note_color_start": [
+            0.19607843,
+            0.30588235,
+            0.29411765
+        ],
+        "note_color_end": [
+            0.12941176,
+            0.12941176,
+            0.1254902
+        ],
+        "endpoint": 552,
+        "hash": "8cc5feb131e512aefa52e8e62d01ed07c920f8d2e0374919bca10929104f2a84",
+        "version": null,
+        "tt_id": 8148,
+        "pixeldrain_id": null,
+        "download_path": "05541.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1537373230568837171,
+        "size": 22005184
+    },
+    {
+        "filename": "05542. ■ - NY channel [Ethan].zip",
+        "id": "05542",
+        "filelist": [
+            "Red Crow/",
+            "Red Crow/bg.mp4",
+            "Red Crow/preview.ogg",
+            "Red Crow/song.ogg",
+            "Red Crow/song.tmb"
+        ],
+        "name": "■",
+        "shortName": "Red Crow Arrange",
+        "trackRef": "RedCrowBlueDove",
+        "author": "NY channel",
+        "year": 2024,
+        "genre": "UTAU",
+        "description": "Respect",
+        "tempo": 135,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 207,
+        "note_color_start": [
+            0.37254902,
+            0.29019608,
+            0.48627451
+        ],
+        "note_color_end": [
+            0.42745098,
+            0.31764706,
+            0.36862745
+        ],
+        "endpoint": 484,
+        "hash": "939577671a875623c058c2ffaf1f358fb4392394d8caa0615b8119db5585b8ff",
+        "version": null,
+        "tt_id": 8149,
+        "pixeldrain_id": null,
+        "download_path": "05542.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1537373746954764299,
+        "size": 27363600
     }
 ]

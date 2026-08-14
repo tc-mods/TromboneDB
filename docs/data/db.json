@@ -238798,5 +238798,46 @@
         "user_id": 226382545204412416,
         "message_id": 1537589334922887171,
         "size": 6770204
+    },
+    {
+        "filename": "05546. BIG Fishes at Emerald Coast... - Sonic Adventure - Jun Senoue [Nagiii].zip",
+        "id": "05546",
+        "filelist": [
+            "bigfish_u3i92k/",
+            "bigfish_u3i92k/bg.png",
+            "bigfish_u3i92k/song.ogg",
+            "bigfish_u3i92k/song.tmb"
+        ],
+        "name": "BIG Fishes at Emerald Coast... - Sonic Adventure",
+        "shortName": "BIG Fishes at Emerald Coast...",
+        "trackRef": "bigfish_u3i92k",
+        "author": "Jun Senoue",
+        "year": "1999",
+        "genre": "VGM",
+        "description": "Character-specific stage theme.",
+        "tempo": 131.99,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 224.0,
+        "hash": "48c85aa4738b567617e6705dae8c95bf8999afeab595c07050e890212c393039",
+        "version": null,
+        "tt_id": 8153,
+        "pixeldrain_id": null,
+        "download_path": "05546.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1537900586622787616,
+        "size": 2168330
     }
 ]

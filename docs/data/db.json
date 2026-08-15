@@ -238880,5 +238880,46 @@
         "user_id": 226382545204412416,
         "message_id": 1537923584058458193,
         "size": 7176308
+    },
+    {
+        "filename": "05548. Trophy Mode - Super Smash Brothers Brawl - SSBB Sound Team [Nagiii].zip",
+        "id": "05548",
+        "filelist": [
+            "trophym_vqkq7i/",
+            "trophym_vqkq7i/bg.png",
+            "trophym_vqkq7i/song.ogg",
+            "trophym_vqkq7i/song.tmb"
+        ],
+        "name": "Trophy Mode - Super Smash Brothers Brawl",
+        "shortName": "Trophy Mode",
+        "trackRef": "trophym_vqkq7i",
+        "author": "SSBB Sound Team",
+        "year": "2008",
+        "genre": "VGM",
+        "description": "The tune to view your collection of acquired trophies and read their descriptions.",
+        "tempo": 126.0,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 310.0,
+        "hash": "5323625ce6c9d4dbb0d05d11f382dec1f0d878fb0ca6682e98c7a9e199efb18c",
+        "version": null,
+        "tt_id": 8155,
+        "pixeldrain_id": null,
+        "download_path": "05548.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1538057773084835901,
+        "size": 2620655
     }
 ]

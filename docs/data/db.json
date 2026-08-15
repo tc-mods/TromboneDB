@@ -238962,5 +238962,46 @@
         "user_id": 821374351039397889,
         "message_id": 1538210298219987135,
         "size": 1968310
+    },
+    {
+        "filename": "05550. Milky Way Wishes - Kirby and the Rainbow Curse (EX) - Jun Ishikawa [Nagiii].zip",
+        "id": "05550",
+        "filelist": [
+            "milkywa_9s0t1a/",
+            "milkywa_9s0t1a/bg.png",
+            "milkywa_9s0t1a/song.ogg",
+            "milkywa_9s0t1a/song.tmb"
+        ],
+        "name": "Milky Way Wishes - Kirby and the Rainbow Curse (EX)",
+        "shortName": "Milky Way Wishes (EX)",
+        "trackRef": "milkywa_9s0t1a",
+        "author": "Jun Ishikawa",
+        "year": "2015",
+        "genre": "VGM",
+        "description": "A calming remake of one of the Kirby Super Star subgame intros. EXTRA chart",
+        "tempo": 132.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 265.0,
+        "hash": "08d808a0710e6cbc8a769b458005046217c323db54f9817346164f28ef614da5",
+        "version": null,
+        "tt_id": 8157,
+        "pixeldrain_id": null,
+        "download_path": "05550.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1538229778208006215,
+        "size": 1713612
     }
 ]

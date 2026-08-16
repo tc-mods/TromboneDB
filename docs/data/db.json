@@ -239085,5 +239085,46 @@
         "user_id": 821374351039397889,
         "message_id": 1538410762517880872,
         "size": 1296373
+    },
+    {
+        "filename": "05553. Sanctuary - Terraria Calamity Mod - DJ DOKURO [Nagiii].zip",
+        "id": "05553",
+        "filelist": [
+            "sanctua_wnkaax/",
+            "sanctua_wnkaax/bg.png",
+            "sanctua_wnkaax/song.ogg",
+            "sanctua_wnkaax/song.tmb"
+        ],
+        "name": "Sanctuary - Terraria Calamity Mod",
+        "shortName": "Sanctuary",
+        "trackRef": "sanctua_wnkaax",
+        "author": "DJ DOKURO",
+        "year": "2019",
+        "genre": "VGM LoFi",
+        "description": "Lofi cover by inert and kisa on YouTube in 2022",
+        "tempo": 93.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 199.0,
+        "hash": "2ff86da57afa1fb699423997fb1dbd1455b5050ba58d9806c9209176a856239b",
+        "version": null,
+        "tt_id": 8160,
+        "pixeldrain_id": null,
+        "download_path": "05553.zip",
+        "charter": "Nagiii",
+        "user_id": 821374351039397889,
+        "message_id": 1538499985354788875,
+        "size": 2684620
     }
 ]

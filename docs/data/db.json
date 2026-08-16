@@ -239371,5 +239371,46 @@
         "user_id": 226382545204412416,
         "message_id": 1538666757064233024,
         "size": 7599631
+    },
+    {
+        "filename": "05560. chrome music lab but i put in 100- effort - StickingPrism27 [Emmett].zip",
+        "id": "05560",
+        "filelist": [
+            "chrome music lab but i put in 100% effort/",
+            "chrome music lab but i put in 100% effort/bg.png",
+            "chrome music lab but i put in 100% effort/song.ogg",
+            "chrome music lab but i put in 100% effort/song.tmb"
+        ],
+        "name": "chrome music lab but i put in 100% effort",
+        "shortName": "chrome music lab but i put in 100% effort",
+        "trackRef": "cml100effort",
+        "author": "StickingPrism27",
+        "year": "2025",
+        "genre": "chrome music lab",
+        "description": "thanks youtube for suggesting this. charted by emmett",
+        "tempo": 186.0,
+        "timesig": 2,
+        "difficulty": 5,
+        "savednotespacing": 257,
+        "note_color_start": [
+            0.372549027,
+            0.03529412,
+            0.407843143
+        ],
+        "note_color_end": [
+            0.9372549,
+            0.360784322,
+            0.9372549
+        ],
+        "endpoint": 525.0,
+        "hash": "836fd70aec89208772fcd18f0e74b943eada4aa5c686da2ab1922295211291a2",
+        "version": null,
+        "tt_id": 8167,
+        "pixeldrain_id": null,
+        "download_path": "05560.zip",
+        "charter": "Emmett",
+        "user_id": 258094952137883648,
+        "message_id": 1538682574191337475,
+        "size": 5240950
     }
 ]

@@ -239126,5 +239126,46 @@
         "user_id": 821374351039397889,
         "message_id": 1538499985354788875,
         "size": 2684620
+    },
+    {
+        "filename": "05554. Shima no Uta (The Island Song) (Siren Version) - Chiikawa [嗚嗚啊啊].zip",
+        "id": "05554",
+        "filelist": [
+            "Shima no Uta/",
+            "Shima no Uta/bg.png",
+            "Shima no Uta/song.ogg",
+            "Shima no Uta/song.tmb"
+        ],
+        "name": "Shima no Uta (The Island Song) (Siren Version)",
+        "shortName": "Shima no Uta",
+        "trackRef": "shimano_qzjrqj",
+        "author": "Chiikawa",
+        "year": "2026",
+        "genre": "Movie Soundtrack",
+        "description": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+        "tempo": 151.0,
+        "timesig": 4,
+        "difficulty": 4,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 280.0,
+        "hash": "c2805874e0a8933822c4130d271668020b391213f708269394cddab8fd2bae9b",
+        "version": null,
+        "tt_id": 8161,
+        "pixeldrain_id": null,
+        "download_path": "05554.zip",
+        "charter": "嗚嗚啊啊",
+        "user_id": 562929971908050949,
+        "message_id": 1538545577493794897,
+        "size": 1953618
     }
 ]

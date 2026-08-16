@@ -239167,5 +239167,45 @@
         "user_id": 562929971908050949,
         "message_id": 1538545577493794897,
         "size": 1953618
+    },
+    {
+        "filename": "05555. Devilman no Uta - Go Misawa,Yu Aku,Kensuke Ushio [Mooshi].zip",
+        "id": "05555",
+        "filelist": [
+            "DevilmannoUta/bg.png",
+            "DevilmannoUta/song.ogg",
+            "DevilmannoUta/song.tmb"
+        ],
+        "name": "Devilman no Uta",
+        "shortName": "Devilman no Uta",
+        "trackRef": "DevilmannoUta",
+        "author": "Go Misawa,Yu Aku,Kensuke Ushio",
+        "year": "2017",
+        "genre": "Synthwave",
+        "description": "The Devilman Crybaby arrangement of the 1972 anime opening\n\n\nMooshi chart",
+        "tempo": 125.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 280,
+        "note_color_start": [
+            0.09411765,
+            0.07058824,
+            0.07058824
+        ],
+        "note_color_end": [
+            0.623529434,
+            0.07450981,
+            0.07450981
+        ],
+        "endpoint": 385.0,
+        "hash": "8d1b39c29b9e720274bba5f8f802d70c6ff630f23644e53f3c0e0e5a00677a73",
+        "version": null,
+        "tt_id": 8162,
+        "pixeldrain_id": null,
+        "download_path": "05555.zip",
+        "charter": "Mooshi",
+        "user_id": 336677744123314187,
+        "message_id": 1538602377815269617,
+        "size": 3361560
     }
 ]

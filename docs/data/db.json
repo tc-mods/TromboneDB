@@ -239289,5 +239289,87 @@
         "user_id": 226382545204412416,
         "message_id": 1538637550145503313,
         "size": 7599631
+    },
+    {
+        "filename": "05558. chrome music lab but i put in 100- effort - StickingPrism27 [Emmett].zip",
+        "id": "05558",
+        "filelist": [
+            "chrome music lab but i put in 100% effort/",
+            "chrome music lab but i put in 100% effort/bg.png",
+            "chrome music lab but i put in 100% effort/song.ogg",
+            "chrome music lab but i put in 100% effort/song.tmb"
+        ],
+        "name": "chrome music lab but i put in 100% effort",
+        "shortName": "chrome music lab but i put in 100% effort",
+        "trackRef": "cml100effort",
+        "author": "StickingPrism27",
+        "year": 2025,
+        "genre": "chrome music lab",
+        "description": "thanks youtube for suggesting this. charted by emmett",
+        "tempo": 186,
+        "timesig": 2,
+        "difficulty": 5,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.37254902,
+            0.035294118,
+            0.40784314
+        ],
+        "note_color_end": [
+            0.9372549,
+            0.36078431,
+            0.9372549
+        ],
+        "endpoint": 525,
+        "hash": "348dbad9e79084ec83ea85f804735edd4072e5fd42d750e02f6295b568e340d3",
+        "version": null,
+        "tt_id": 8165,
+        "pixeldrain_id": null,
+        "download_path": "05558.zip",
+        "charter": "Emmett",
+        "user_id": 258094952137883648,
+        "message_id": 1538665516103893123,
+        "size": 5240900
+    },
+    {
+        "filename": "05559. lobotomy of a sunfish - justan oval [Madpie24].zip",
+        "id": "05559",
+        "filelist": [
+            "lobotomy_of_a_sunfish/",
+            "lobotomy_of_a_sunfish/bg.mp4",
+            "lobotomy_of_a_sunfish/song.ogg",
+            "lobotomy_of_a_sunfish/song.tmb"
+        ],
+        "name": "lobotomy of a sunfish",
+        "shortName": "lobotomy of a sunfish",
+        "trackRef": "lobotom_ro6sdk",
+        "author": "justan oval",
+        "year": "2026",
+        "genre": "justan oval",
+        "description": "do you have any ibuprofen? i have a headache",
+        "tempo": 240.0,
+        "timesig": 4,
+        "difficulty": 8,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.8696426,
+            0.8479764,
+            1.0
+        ],
+        "note_color_end": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "endpoint": 300.0,
+        "hash": "6df94e523f5278cad88ad16035e1c2324e7779b2484bd11cbc422a65bf9a8ac0",
+        "version": null,
+        "tt_id": 8166,
+        "pixeldrain_id": null,
+        "download_path": "05559.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1538666757064233024,
+        "size": 7599631
     }
 ]

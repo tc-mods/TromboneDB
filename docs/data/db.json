@@ -239444,5 +239444,46 @@
         "user_id": 1094506336802328637,
         "message_id": 1538911508350894110,
         "size": 6153964
+    },
+    {
+        "filename": "05562. It's me, It's Verity - Horror Skunx [Koen].zip",
+        "id": "05562",
+        "filelist": [
+            "Verity/",
+            "Verity/bg.png",
+            "Verity/song.ogg",
+            "Verity/song.tmb"
+        ],
+        "name": "It's me, It's Verity",
+        "shortName": "Verity",
+        "trackRef": "itsmeitsverity",
+        "author": "Horror Skunx",
+        "year": 2026,
+        "genre": "Meme",
+        "description": "Hey, it's me, it's Verity!",
+        "tempo": 126,
+        "timesig": 2,
+        "difficulty": 3,
+        "savednotespacing": 180,
+        "note_color_start": [
+            1,
+            0.97647059,
+            0
+        ],
+        "note_color_end": [
+            0.54901961,
+            0.54901961,
+            0.54901961
+        ],
+        "endpoint": 255,
+        "hash": "6a2b470449db294f33aee855c91a21b29bf70a623163e2af3edba68c6632d8be",
+        "version": null,
+        "tt_id": 8169,
+        "pixeldrain_id": null,
+        "download_path": "05562.zip",
+        "charter": "Koen",
+        "user_id": 740676260816224277,
+        "message_id": 1538917628398014515,
+        "size": 2161623
     }
 ]

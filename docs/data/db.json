@@ -239412,5 +239412,37 @@
         "user_id": 258094952137883648,
         "message_id": 1538682574191337475,
         "size": 5240950
+    },
+    {
+        "filename": "05561. You＆合図 (aIzu) - Otonose Kanade [aoiiiii].zip",
+        "id": "05561",
+        "filelist": [
+            "you and aizu/bg.png",
+            "you and aizu/song.ogg",
+            "you and aizu/song.tmb"
+        ],
+        "name": "You＆合図 (aIzu)",
+        "shortName": "You & aIzu",
+        "trackRef": "you and aizu",
+        "author": "Otonose Kanade",
+        "year": 2026,
+        "genre": "VTuber Music",
+        "description": "kanade when it's monday:",
+        "tempo": 180.0,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 156,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 476,
+        "hash": "d88ac68643f39c96a198da4a1eb5b01bf92a780a787b83e5b2a226b9055265cb",
+        "version": null,
+        "tt_id": 8168,
+        "pixeldrain_id": null,
+        "download_path": "05561.zip",
+        "charter": "aoiiiii",
+        "user_id": 1094506336802328637,
+        "message_id": 1538911508350894110,
+        "size": 6153964
     }
 ]

@@ -240010,5 +240010,46 @@
         "user_id": 821374351039397889,
         "message_id": 1539346289089839215,
         "size": 1649994
+    },
+    {
+        "filename": "05576. WHERE IS MY HUSBAND! - RAYE [Madpie24].zip",
+        "id": "05576",
+        "filelist": [
+            "where_is_my_husband/",
+            "where_is_my_husband/bg.mp4",
+            "where_is_my_husband/song.ogg",
+            "where_is_my_husband/song.tmb"
+        ],
+        "name": "WHERE IS MY HUSBAND!",
+        "shortName": "WHERE IS MY HUSBAND!",
+        "trackRef": "whereis_uochgm",
+        "author": "RAYE",
+        "year": "2025",
+        "genre": "Pop",
+        "description": "From the album \"This Music May Contain Hope\"",
+        "tempo": 232.0,
+        "timesig": 4,
+        "difficulty": 8,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.708928347,
+            0.04440501,
+            0.0315473266
+        ],
+        "note_color_end": [
+            0.337500334,
+            0.339286357,
+            0.339285284
+        ],
+        "endpoint": 750.0,
+        "hash": "e058b98d7157a162339d7877a9f71c6bfb02bc8c496482fdccc114a346ebe44e",
+        "version": null,
+        "tt_id": 8182,
+        "pixeldrain_id": null,
+        "download_path": "05576.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1539400024037785692,
+        "size": 25881791
     }
 ]

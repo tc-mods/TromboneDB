@@ -239887,5 +239887,46 @@
         "user_id": 439174446562148362,
         "message_id": 1539090484515967006,
         "size": 9996215
+    },
+    {
+        "filename": "05573. 心悶 (Sim-Būn) Sin Man - 美秀集團 Amazing Show [doogbook479].zip",
+        "id": "05573",
+        "filelist": [
+            "simbun/",
+            "simbun/bg.png",
+            "simbun/song.ogg",
+            "simbun/song.tmb"
+        ],
+        "name": "心悶 (Sim-Būn) Sin Man",
+        "shortName": "心悶 (Sim-Būn) Sin Man",
+        "trackRef": "simbū_kf0bun",
+        "author": "美秀集團 Amazing Show",
+        "year": "2021",
+        "genre": "POP",
+        "description": "心悶，讀音：sim-būn\r\n指動詞思念、想念，或形容內心愁苦煩悶的狀態\r\n而在歌曲中我們轉化它做：「帶著憂愁地思念」\n/Charted by doogbook479",
+        "tempo": 114.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 305,
+        "note_color_start": [
+            0.9976192,
+            0.294404268,
+            0.35
+        ],
+        "note_color_end": [
+            0.7511906,
+            0.5535714,
+            0.244047552
+        ],
+        "endpoint": 460.0,
+        "hash": "6e85f4ed55f1e51b4cf7f3808455493afb3e4a320986aca306ca67bf4ae278ea",
+        "version": null,
+        "tt_id": 8179,
+        "pixeldrain_id": null,
+        "download_path": "05573.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1539268180512612453,
+        "size": 5433164
     }
 ]

@@ -240133,5 +240133,46 @@
         "user_id": 821374351039397889,
         "message_id": 1539631699564957836,
         "size": 1649880
+    },
+    {
+        "filename": "05579. My Singing Monsters - Cold Island - My Singing Monsters [silver].zip",
+        "id": "05579",
+        "filelist": [
+            "YOU SHOULD TRY TROMBONE CHAMP/",
+            "YOU SHOULD TRY TROMBONE CHAMP/bg.png",
+            "YOU SHOULD TRY TROMBONE CHAMP/song.ogg",
+            "YOU SHOULD TRY TROMBONE CHAMP/song.tmb"
+        ],
+        "name": "My Singing Monsters - Cold Island",
+        "shortName": "Cold Island",
+        "trackRef": "coldisland",
+        "author": "My Singing Monsters",
+        "year": 2016,
+        "genre": "OST",
+        "description": "only a true boner can read this message",
+        "tempo": 140,
+        "timesig": 2,
+        "difficulty": 5,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.133333325386047,
+            0.207843139767647,
+            0.866666674613953
+        ],
+        "note_color_end": [
+            0.400000005960464,
+            0.862745106220245,
+            0.901960790157318
+        ],
+        "endpoint": 392,
+        "hash": "25c8c31342513815302bf2c20cbb2b1d21b0af00216faed134f8abfad4daa7d2",
+        "version": null,
+        "tt_id": 8185,
+        "pixeldrain_id": null,
+        "download_path": "05579.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1539741983017406507,
+        "size": 5207920
     }
 ]

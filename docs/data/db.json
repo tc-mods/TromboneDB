@@ -240051,5 +240051,46 @@
         "user_id": 226382545204412416,
         "message_id": 1539400024037785692,
         "size": 25881791
+    },
+    {
+        "filename": "05577. BIRDBRAIN (w- OK Glass) feat. Kasane Teto - Jamie Paige [Sleeby Maddy~].zip",
+        "id": "05577",
+        "filelist": [
+            "Bird Brain/",
+            "Bird Brain/bg.png",
+            "Bird Brain/song.ogg",
+            "Bird Brain/song.tmb"
+        ],
+        "name": "BIRDBRAIN (w/ OK Glass) feat. Kasane Teto",
+        "shortName": "BIRDBRAIN",
+        "trackRef": "birdbrain",
+        "author": "Jamie Paige",
+        "year": 2025,
+        "genre": "Teto",
+        "description": "So, FUCK\nSSS2 Quarter Finals",
+        "tempo": 160,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 175,
+        "note_color_start": [
+            1,
+            0.211764708161354,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.800000011920929,
+            0.298039227724075
+        ],
+        "endpoint": 687,
+        "hash": "4ae93bbdcbc594b54012f96d02341d837375c2297404b161464e2837a534d9ca",
+        "version": null,
+        "tt_id": 8183,
+        "pixeldrain_id": null,
+        "download_path": "05577.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1539419442491166771,
+        "size": 5246879
     }
 ]

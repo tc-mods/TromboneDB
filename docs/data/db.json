@@ -240174,5 +240174,38 @@
         "user_id": 196324916864352257,
         "message_id": 1539741983017406507,
         "size": 5207920
+    },
+    {
+        "filename": "05580. Waking Up Palm Tree SSS2 Edit - Yukopi × Kaai Yuki [Sleeby Maddy~].zip",
+        "id": "05580",
+        "filelist": [
+            "Waking Up Palm Tree SSS2 Edit/",
+            "Waking Up Palm Tree SSS2 Edit/bg.png",
+            "Waking Up Palm Tree SSS2 Edit/song.ogg",
+            "Waking Up Palm Tree SSS2 Edit/song.tmb"
+        ],
+        "name": "Waking Up Palm Tree SSS2 Edit",
+        "shortName": "Waking Up Palm Tree SSS2",
+        "trackRef": "Waking Up Palm Tree SSS2",
+        "author": "Yukopi × Kaai Yuki",
+        "year": 2023,
+        "genre": "Vocaloid",
+        "description": "「寝起きヤシの木」 Music & Lyrics : ゆこぴ. Animation: 小津. Vocal : 歌愛ユキ. Movie : ゆこぴ. SSS2 edit\noriginal by seirrabeta audio edit by ZaraNyaa",
+        "tempo": 160,
+        "timesig": 4,
+        "difficulty": 9,
+        "savednotespacing": 175,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 305,
+        "hash": "22167e4421003c2c6928c4bb093d71afaf640355fcd776c297da1dc576ab670c",
+        "version": null,
+        "tt_id": 8186,
+        "pixeldrain_id": null,
+        "download_path": "05580.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1540213898064699403,
+        "size": 2745882
     }
 ]

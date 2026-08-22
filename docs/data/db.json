@@ -240207,5 +240207,46 @@
         "user_id": 128645240415453186,
         "message_id": 1540213898064699403,
         "size": 2745882
+    },
+    {
+        "filename": "05581. Tijuca - Trombone Talk - Gerhard Narholz [frogminers].zip",
+        "id": "05581",
+        "filelist": [
+            "Tijuca - Trombone Talk/",
+            "Tijuca - Trombone Talk/bg.png",
+            "Tijuca - Trombone Talk/song.ogg",
+            "Tijuca - Trombone Talk/song.tmb"
+        ],
+        "name": "Tijuca - Trombone Talk",
+        "shortName": "Tijuca",
+        "trackRef": "tijuca_6zo5up",
+        "author": "Gerhard Narholz",
+        "year": "1980",
+        "genre": "Easy listening",
+        "description": "With glissando trombones",
+        "tempo": 129.0,
+        "timesig": 2,
+        "difficulty": 6,
+        "savednotespacing": 180,
+        "note_color_start": [
+            1.0,
+            0.110574611,
+            0.0
+        ],
+        "note_color_end": [
+            1.0,
+            0.5767855,
+            0.0
+        ],
+        "endpoint": 347.0,
+        "hash": "1a59ae7769b67d27a829af02e422286aae552b7eefb0a7cfbbddcd79b72875a7",
+        "version": null,
+        "tt_id": 8187,
+        "pixeldrain_id": null,
+        "download_path": "05581.zip",
+        "charter": "frogminers",
+        "user_id": 1226998093472595979,
+        "message_id": 1540540748523507713,
+        "size": 3398947
     }
 ]

@@ -240492,5 +240492,38 @@
         "user_id": 726447809695580212,
         "message_id": 1541079208208371715,
         "size": 4482630
+    },
+    {
+        "filename": "05588. Demonstration Minigame (Assault Airspace)  - Ericksatto [Croco].zip",
+        "id": "05588",
+        "filelist": [
+            "Demonstration_Minigame/",
+            "Demonstration_Minigame/bg.png",
+            "Demonstration_Minigame/song.ogg",
+            "Demonstration_Minigame/song.tmb"
+        ],
+        "name": "Demonstration Minigame (Assault Airspace) ",
+        "shortName": "DMG Assault Airspace",
+        "trackRef": "Brainiac Maniac",
+        "author": "Ericksatto",
+        "year": 2025,
+        "genre": "Music",
+        "description": "Made By Ericksatto\nCharted by Croco_256\nOST from PVZ2 Reflourished",
+        "tempo": 94,
+        "timesig": 2,
+        "difficulty": 3,
+        "savednotespacing": 120,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 288,
+        "hash": "9b7415021a995eca926c06b9671ff26108bfd7a76657684cc077ec7c34f02822",
+        "version": null,
+        "tt_id": 8193,
+        "pixeldrain_id": null,
+        "download_path": "05588.zip",
+        "charter": "Croco",
+        "user_id": 735658395184398426,
+        "message_id": 1541181196950831374,
+        "size": 3500612
     }
 ]

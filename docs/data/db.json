@@ -240453,5 +240453,44 @@
         "user_id": 216807674187087873,
         "message_id": 1540975085635108914,
         "size": 3465038
+    },
+    {
+        "filename": "05587. More Than Words(-มากกว่าที่รัก) - Emi Thasorn [蕭0501_].zip",
+        "id": "05587",
+        "filelist": [
+            "teerak/song.ogg",
+            "teerak/song.tmb"
+        ],
+        "name": "More Than Words(\rมากกว่าที่รัก)",
+        "shortName": "More Than Words",
+        "trackRef": "moretha_6lwkhn",
+        "author": "Emi Thasorn",
+        "year": "2025",
+        "genre": "泰文(Thai)",
+        "description": "I LOVE EMIBONNIE SO MUCHHHHHHH",
+        "tempo": 138.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.3398806,
+            0.151547208,
+            0.451190829
+        ],
+        "note_color_end": [
+            1.0,
+            0.357142419,
+            0.154762045
+        ],
+        "endpoint": 562.5,
+        "hash": "8af0328696b1ca4d973cd8f2d15cc96dd721fd094add447d8293ba37e9876e2f",
+        "version": null,
+        "tt_id": 8192,
+        "pixeldrain_id": null,
+        "download_path": "05587.zip",
+        "charter": "蕭0501_",
+        "user_id": 726447809695580212,
+        "message_id": 1541079208208371715,
+        "size": 4482630
     }
 ]

@@ -240412,5 +240412,46 @@
         "user_id": 288423643904475136,
         "message_id": 1540692354569211905,
         "size": 5783713
+    },
+    {
+        "filename": "05586. Super Mario Bros. Main Theme (Metal Version) - Siromaru [Ethan].zip",
+        "id": "05586",
+        "filelist": [
+            "SMB Metal Theme/",
+            "SMB Metal Theme/bg.png",
+            "SMB Metal Theme/song.ogg",
+            "SMB Metal Theme/song.tmb"
+        ],
+        "name": "Super Mario Bros. Main Theme (Metal Version)",
+        "shortName": "SMB Metal Theme",
+        "trackRef": "311664459937843_SiromaruSMBmetal",
+        "author": "Siromaru",
+        "year": 2008,
+        "genre": "Metal",
+        "description": "A metal cover of the famous Super Mario Bros. main theme. ",
+        "tempo": 218,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 128,
+        "note_color_start": [
+            1,
+            0.21176471,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.8,
+            0.29803922
+        ],
+        "endpoint": 612,
+        "hash": "d1b3d43c3418d87dcfea454d2f61d6fa9cde3913c576a5df2d0fdef51e58da9e",
+        "version": null,
+        "tt_id": 8191,
+        "pixeldrain_id": null,
+        "download_path": "05586.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1540975085635108914,
+        "size": 3465038
     }
 ]

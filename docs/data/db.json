@@ -240877,5 +240877,46 @@
         "user_id": 1178786563598057514,
         "message_id": 1541474444747214869,
         "size": 1246034
+    },
+    {
+        "filename": "05598. ぐぬぬ - 重音テト (GUNUNU - Kasane Teto)  - 読谷あかね - Yomitan Akane [silver].zip",
+        "id": "05598",
+        "filelist": [
+            "GUNUNU/",
+            "GUNUNU/bg.mp4",
+            "GUNUNU/song.ogg",
+            "GUNUNU/song.tmb"
+        ],
+        "name": "ぐぬぬ / 重音テト (GUNUNU / Kasane Teto) ",
+        "shortName": "GUNUNU",
+        "trackRef": "GUNUNU",
+        "author": "読谷あかね / Yomitan Akane",
+        "year": 2026,
+        "genre": "vocaloid",
+        "description": "gunununununu",
+        "tempo": 138,
+        "timesig": 2,
+        "difficulty": 8,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.4453125,
+            0,
+            0.24005126953125
+        ],
+        "note_color_end": [
+            0.69140625,
+            0.299789428710938,
+            0.299789428710938
+        ],
+        "endpoint": 361,
+        "hash": "55a2d13ce0ae1ad2bc4f94b418e3969262ba877c2ef4fa9eaea365b41c1eea67",
+        "version": null,
+        "tt_id": 8203,
+        "pixeldrain_id": null,
+        "download_path": "05598.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1541572713305604249,
+        "size": 10236943
     }
 ]

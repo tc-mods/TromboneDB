@@ -240525,5 +240525,243 @@
         "user_id": 735658395184398426,
         "message_id": 1541181196950831374,
         "size": 3500612
+    },
+    {
+        "filename": "05589. Lights, Camera, Action! - Tee Lopes [PX].zip",
+        "id": "05589",
+        "filelist": [
+            "Lights Camera Action Sonic Mania/",
+            "Lights Camera Action Sonic Mania/bg.png",
+            "Lights Camera Action Sonic Mania/song.ogg",
+            "Lights Camera Action Sonic Mania/song.tmb"
+        ],
+        "name": "Lights, Camera, Action!",
+        "shortName": "Lights, Camera, Action!",
+        "trackRef": "Lights Camera Action Sonic Mania",
+        "author": "Tee Lopes",
+        "year": 2018,
+        "genre": "OST - Video Game",
+        "description": "theme for studiopolis zone act 1 in sonic mania\nSSS2 Semi Finals",
+        "tempo": 120,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 250,
+        "note_color_start": [
+            0.76885986328125,
+            0.836401462554932,
+            0.890625
+        ],
+        "note_color_end": [
+            1,
+            1,
+            1
+        ],
+        "endpoint": 378,
+        "hash": "bbc9279df4eb433e108a0ea31c51fc1f766804838eb9392e1a401a1dc3f8e759",
+        "version": null,
+        "tt_id": 8194,
+        "pixeldrain_id": null,
+        "download_path": "05589.zip",
+        "charter": "PX",
+        "user_id": 217480029246980096,
+        "message_id": 1541276626401370112,
+        "size": 6712688
+    },
+    {
+        "filename": "05590. Waiting On Your Call (feat. Park Avenue) - Anevo [Ethan].zip",
+        "id": "05590",
+        "filelist": [
+            "Waiting On Your Call/",
+            "Waiting On Your Call/bg.png",
+            "Waiting On Your Call/song.ogg",
+            "Waiting On Your Call/song.tmb"
+        ],
+        "name": "Waiting On Your Call (feat. Park Avenue)",
+        "shortName": "Waiting On Your Call",
+        "trackRef": "AnevoWaitingOnYourCall",
+        "author": "Anevo",
+        "year": 2017,
+        "genre": "Future Bass",
+        "description": "Monstercat Addiction Part 4\nSSS2 Semi Finals",
+        "tempo": 168,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 167,
+        "note_color_start": [
+            0.0235294122248888,
+            0.0941176488995552,
+            0.976470589637756
+        ],
+        "note_color_end": [
+            0.30196076631546,
+            0.317647069692612,
+            1
+        ],
+        "endpoint": 748,
+        "hash": "6d3f78bc4c29534d7a20714319e2f16d47f3ee5a2ad867885ce6c2e3b990b2ce",
+        "version": null,
+        "tt_id": 8195,
+        "pixeldrain_id": null,
+        "download_path": "05590.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1541277990648807444,
+        "size": 13873350
+    },
+    {
+        "filename": "05591. Donut Shop [Bossa Nova] - Glyde [Sleeby Maddy~].zip",
+        "id": "05591",
+        "filelist": [
+            "donut shop/",
+            "donut shop/bg.png",
+            "donut shop/song.ogg",
+            "donut shop/song.tmb"
+        ],
+        "name": "Donut Shop [Bossa Nova]",
+        "shortName": "Donut Shop",
+        "trackRef": "donutshop",
+        "author": "Glyde",
+        "year": 2024,
+        "genre": "Bossa Nova",
+        "description": "Glyde- Donut Shop\nSSS2 Semi Finals",
+        "tempo": 190,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 147,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 420,
+        "hash": "63f0ed95c93a08cc2b129e0b6a80ee56c9285974536eb2174c2d9d087ee857a4",
+        "version": null,
+        "tt_id": 8196,
+        "pixeldrain_id": null,
+        "download_path": "05591.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1541281470860107798,
+        "size": 3971724
+    },
+    {
+        "filename": "05592. Memories Of Blue (SSS2 Edit) - ああああ [Sleeby Maddy~].zip",
+        "id": "05592",
+        "filelist": [
+            "Memories Of Blue (SSS2 Edit)/",
+            "Memories Of Blue (SSS2 Edit)/bg.png",
+            "Memories Of Blue (SSS2 Edit)/song.ogg",
+            "Memories Of Blue (SSS2 Edit)/song.tmb"
+        ],
+        "name": "Memories Of Blue (SSS2 Edit)",
+        "shortName": "Memories Of Blue (SSS2)",
+        "trackRef": "MemoriesOfBlueSSS2Edit",
+        "author": "ああああ",
+        "year": 2023,
+        "genre": "Bitpop",
+        "description": "Memories of Blue originally for TTCC2024 Week 4, now for SSS2 Semi Finals\n\nArt by Alena Aenami",
+        "tempo": 178,
+        "timesig": 2,
+        "difficulty": 5,
+        "savednotespacing": 170,
+        "note_color_start": [
+            0,
+            1,
+            1
+        ],
+        "note_color_end": [
+            0,
+            0,
+            0.627451002597809
+        ],
+        "endpoint": 480,
+        "hash": "fbdcf791e0f2ca079c0bba883123cb1c06b22e5f39e256b1b0f624e1b1378abf",
+        "version": null,
+        "tt_id": 8197,
+        "pixeldrain_id": null,
+        "download_path": "05592.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1541284377898778756,
+        "size": 6135106
+    },
+    {
+        "filename": "05593. Days Pass - Adrián Berenguer [Ethan].zip",
+        "id": "05593",
+        "filelist": [
+            "Days Pass/",
+            "Days Pass/bg.png",
+            "Days Pass/song.ogg",
+            "Days Pass/song.tmb"
+        ],
+        "name": "Days Pass",
+        "shortName": "Days Pass",
+        "trackRef": "Days_Pass",
+        "author": "Adrián Berenguer",
+        "year": 2019,
+        "genre": "Classical",
+        "description": "Days Pass\nSSS2 Semi Finals\n\nDays pass by ANBR Adrián Berenguer - https://licensing.jamendo.com/en/tracks/YiRy2Bdef4a/days-pass\nMusic licensed by Jamendo Licensing: licensing.jamendo.com",
+        "tempo": 166,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 280,
+        "note_color_start": [
+            1,
+            0,
+            0
+        ],
+        "note_color_end": [
+            0,
+            0,
+            1
+        ],
+        "endpoint": 500,
+        "hash": "cde1c3c64cdf6d30cdf428837545522de3a2a37462139d0d900a082d2277a710",
+        "version": null,
+        "tt_id": 8198,
+        "pixeldrain_id": null,
+        "download_path": "05593.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1541284955903103058,
+        "size": 8629434
+    },
+    {
+        "filename": "05594. Fluffy Flash (SSS2 Edit) - Kobaryo [ZaraNyaa].zip",
+        "id": "05594",
+        "filelist": [
+            "Fluffy Flash (SSS2 Edit)/",
+            "Fluffy Flash (SSS2 Edit)/bg.png",
+            "Fluffy Flash (SSS2 Edit)/song.ogg",
+            "Fluffy Flash (SSS2 Edit)/song.tmb"
+        ],
+        "name": "Fluffy Flash (SSS2 Edit)",
+        "shortName": "Fluffy Flash",
+        "trackRef": "fluffyflashkobaryo",
+        "author": "Kobaryo",
+        "year": 2021,
+        "genre": "Electronic",
+        "description": "banger that i found through groove coaster (RIP groove coaster)\n\nOriginal chart by ZaraNyaa, edit by SleebyFluffball  ",
+        "tempo": 252,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.9407958984375,
+            0.2421875,
+            1
+        ],
+        "note_color_end": [
+            0.69221818447113,
+            0.294117718935013,
+            0.992156863212585
+        ],
+        "endpoint": 614,
+        "hash": "c8d82ab0dd0412c3c1643dbe789e0f958f22f9f7232a489179183f61c8ad414e",
+        "version": null,
+        "tt_id": 8199,
+        "pixeldrain_id": null,
+        "download_path": "05594.zip",
+        "charter": "ZaraNyaa",
+        "user_id": 297151169707376641,
+        "message_id": 1541285792620617839,
+        "size": 6111241
     }
 ]

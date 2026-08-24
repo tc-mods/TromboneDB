@@ -240763,5 +240763,46 @@
         "user_id": 297151169707376641,
         "message_id": 1541285792620617839,
         "size": 6111241
+    },
+    {
+        "filename": "05595. Dragorithm - MYUKKE. [bw242].zip",
+        "id": "05595",
+        "filelist": [
+            "Dragorithm/",
+            "Dragorithm/bg.png",
+            "Dragorithm/song.ogg",
+            "Dragorithm/song.tmb"
+        ],
+        "name": "Dragorithm",
+        "shortName": "Dragorithm",
+        "trackRef": "Dragorithm",
+        "author": "MYUKKE.",
+        "year": 2026,
+        "genre": "EPIC",
+        "description": "It's time to end this. Here and now.\nCharted by BW242\nSSS2 Semi Finals Custom Song by MYUKKE.",
+        "tempo": 250,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 112,
+        "note_color_start": [
+            1,
+            0.91372549533844,
+            0.800000011920929
+        ],
+        "note_color_end": [
+            0.200000002980232,
+            0.200000002980232,
+            0.200000002980232
+        ],
+        "endpoint": 846,
+        "hash": "a9a5bae6cbc7a3c7a9e2bacd90998c9bc7920e556bdea6fa687d0fc2f71b18ab",
+        "version": null,
+        "tt_id": 8200,
+        "pixeldrain_id": null,
+        "download_path": "05595.zip",
+        "charter": "bw242",
+        "user_id": 439174446562148362,
+        "message_id": 1541291936487309312,
+        "size": 6685463
     }
 ]

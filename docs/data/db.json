@@ -240804,5 +240804,46 @@
         "user_id": 439174446562148362,
         "message_id": 1541291936487309312,
         "size": 6685463
+    },
+    {
+        "filename": "05596. RINGO - ITZY [doogbook479].zip",
+        "id": "05596",
+        "filelist": [
+            "ringo/",
+            "ringo/bg.png",
+            "ringo/song.ogg",
+            "ringo/song.tmb"
+        ],
+        "name": "RINGO",
+        "shortName": "RINGO",
+        "trackRef": "ringo_p134e0",
+        "author": "ITZY",
+        "year": "2023",
+        "genre": "KPOP",
+        "description": "ITZY JAPAN 1st Album『RINGO』\r\n2023.10.18 ( wed ) Release\n/Charted by doogbook479",
+        "tempo": 120.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 295,
+        "note_color_start": [
+            0.95,
+            0.380714744,
+            0.434523225
+        ],
+        "note_color_end": [
+            0.9476192,
+            0.6785714,
+            0.345238179
+        ],
+        "endpoint": 424.0,
+        "hash": "21d1f709c70fa2d852eb51196cf0ffaf3de9a0ce103fc54147e0be115aff95fb",
+        "version": null,
+        "tt_id": 8201,
+        "pixeldrain_id": null,
+        "download_path": "05596.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1541464153082826783,
+        "size": 5310110
     }
 ]

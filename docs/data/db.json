@@ -240990,5 +240990,46 @@
         "user_id": 128645240415453186,
         "message_id": 1541875164738752512,
         "size": 6135554
+    },
+    {
+        "filename": "05601. カチグミ - Kachigumi feat.GUMI - Vell [Madpie24].zip",
+        "id": "05601",
+        "filelist": [
+            "kachigumi/",
+            "kachigumi/bg.png",
+            "kachigumi/song.ogg",
+            "kachigumi/song.tmb"
+        ],
+        "name": "カチグミ / Kachigumi feat.GUMI",
+        "shortName": "Kachigumi",
+        "trackRef": "kachigu_qb1m86",
+        "author": "Vell",
+        "year": "2026",
+        "genre": "Vocaloid",
+        "description": "Illust: 深川可純",
+        "tempo": 230.0,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.9940475,
+            0.7170237,
+            0.27559486
+        ],
+        "note_color_end": [
+            0.09642846,
+            0.0357143953,
+            0.03869051
+        ],
+        "endpoint": 860.0,
+        "hash": "76ee926e153b7c4e4fd4568b22390e09434e8971b87906718b3a4f30780f3b12",
+        "version": null,
+        "tt_id": 8206,
+        "pixeldrain_id": null,
+        "download_path": "05601.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1541934172044664996,
+        "size": 6878491
     }
 ]

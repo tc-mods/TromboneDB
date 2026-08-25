@@ -240949,5 +240949,46 @@
         "user_id": 887841324634611772,
         "message_id": 1541833767453200526,
         "size": 2997085
+    },
+    {
+        "filename": "05600. Memories Of Blue (SSS2 Edit) - ああああ [Sleeby Maddy~].zip",
+        "id": "05600",
+        "filelist": [
+            "Memories Of Blue (SSS2 Edit)/",
+            "Memories Of Blue (SSS2 Edit)/bg.png",
+            "Memories Of Blue (SSS2 Edit)/song.ogg",
+            "Memories Of Blue (SSS2 Edit)/song.tmb"
+        ],
+        "name": "Memories Of Blue (SSS2 Edit)",
+        "shortName": "Memories Of Blue (SSS2)",
+        "trackRef": "MemoriesOfBlueSSS2Edit",
+        "author": "ああああ",
+        "year": 2023,
+        "genre": "Bitpop",
+        "description": "Memories of Blue originally for TTCC2024 Week 4, now for SSS2 Semi Finals\n\nArt by Alena Aenami",
+        "tempo": 178,
+        "timesig": 2,
+        "difficulty": 5,
+        "savednotespacing": 170,
+        "note_color_start": [
+            0,
+            1,
+            1
+        ],
+        "note_color_end": [
+            0,
+            0,
+            0.627451002597809
+        ],
+        "endpoint": 480,
+        "hash": "d5f5969d9252898352077547b27c25999c6b3d94da120fff84a26a85465461a1",
+        "version": null,
+        "tt_id": 8205,
+        "pixeldrain_id": null,
+        "download_path": "05600.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1541875164738752512,
+        "size": 6135554
     }
 ]

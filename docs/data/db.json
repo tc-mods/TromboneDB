@@ -241195,5 +241195,37 @@
         "user_id": 196324916864352257,
         "message_id": 1542238109591146579,
         "size": 8420742
+    },
+    {
+        "filename": "05606. The Deadly Pursuit Of Annie Benson - Jake Hardman - Jake Hardman [-✧♡˖꒰⑅𝚃𝚒𝚏𝚏𝚎𝚔𝚒𝚔𝚒⑅꒱˖♡✧-].zip",
+        "id": "05606",
+        "filelist": [
+            "TheDeadlyPursuitOfAnnieBenson/bg.mp4",
+            "TheDeadlyPursuitOfAnnieBenson/song.ogg",
+            "TheDeadlyPursuitOfAnnieBenson/song.tmb"
+        ],
+        "name": "The Deadly Pursuit Of Annie Benson - Jake Hardman",
+        "shortName": "The Deadly Pursuit Of Annie Benson",
+        "trackRef": "TheDeadlyPursuitOfAnnieBenson",
+        "author": "Jake Hardman",
+        "year": 2023,
+        "genre": "Indie Pop",
+        "description": "And she'll never be going anywhere near you AGAIN!",
+        "tempo": 120,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 120,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 358,
+        "hash": "dd390e924ff8c67e963f11d03777d2240be822080736f457523f047497feb7d7",
+        "version": null,
+        "tt_id": 8211,
+        "pixeldrain_id": null,
+        "download_path": "05606.zip",
+        "charter": "*✧♡˖꒰⑅𝚃𝚒𝚏𝚏𝚎𝚔𝚒𝚔𝚒⑅꒱˖♡✧*",
+        "user_id": 887841324634611772,
+        "message_id": 1542278130050269255,
+        "size": 46215277
     }
 ]

@@ -241113,5 +241113,46 @@
         "user_id": 1226998093472595979,
         "message_id": 1542004486833176681,
         "size": 3417724
+    },
+    {
+        "filename": "05604. Charlie's Inferno - That Handsome Devil [Samuran].zip",
+        "id": "05604",
+        "filelist": [
+            "Charlie's Inferno/",
+            "Charlie's Inferno/bg.png",
+            "Charlie's Inferno/song.ogg",
+            "Charlie's Inferno/song.tmb"
+        ],
+        "name": "Charlie's Inferno",
+        "shortName": "Charlie's Inferno",
+        "trackRef": "inferno",
+        "author": "That Handsome Devil",
+        "year": "2024",
+        "genre": "Experimental Rock",
+        "description": "Here lies Jermajesty. You can tell it's him 'cause we put his name on the trombone",
+        "tempo": 146.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 240,
+        "note_color_start": [
+            0.7176470588235294,
+            0.5686274509803921,
+            0.09803921568627451
+        ],
+        "note_color_end": [
+            0.8588235294117647,
+            0.7843137254901961,
+            0.5490196078431373
+        ],
+        "endpoint": 551.9895833333334,
+        "hash": "870eba71aeab8dfb1f12193a87b4e38ffeaa7f80fd6d65873d0f495e8bf11ef2",
+        "version": null,
+        "tt_id": 8209,
+        "pixeldrain_id": null,
+        "download_path": "05604.zip",
+        "charter": "Samuran",
+        "user_id": 756520104639856701,
+        "message_id": 1542142537081552969,
+        "size": 3946122
     }
 ]

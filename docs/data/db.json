@@ -241408,5 +241408,128 @@
         "user_id": 700720482734964777,
         "message_id": 1542432817810505761,
         "size": 4403827
+    },
+    {
+        "filename": "05612. Beginning - Toby Fox [pipe].zip",
+        "id": "05612",
+        "filelist": [
+            "Beginning/",
+            "Beginning/bg.png",
+            "Beginning/song.ogg",
+            "Beginning/song.tmb"
+        ],
+        "name": "Beginning",
+        "shortName": "Beginning",
+        "trackRef": "Beginning from deltarune CH. 1",
+        "author": "Toby Fox",
+        "year": 2018,
+        "genre": "VGM",
+        "description": "i am lancer deltarune",
+        "tempo": 137.95,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 120,
+        "note_color_start": [
+            0.326712608337402,
+            0.1204833984375,
+            0.734375
+        ],
+        "note_color_end": [
+            1.0,
+            0.867933690547943,
+            0.5390625
+        ],
+        "endpoint": 140,
+        "hash": "d5d691e39dbe6b62173b5ea2a2781904509a0551e35354b898ce17d6035dbe95",
+        "version": null,
+        "tt_id": 8217,
+        "pixeldrain_id": null,
+        "download_path": "05612.zip",
+        "charter": "pipe",
+        "user_id": 700720482734964777,
+        "message_id": 1542585530615599156,
+        "size": 976773
+    },
+    {
+        "filename": "05613. Thanatos - Shiro Sagisu [pipe].zip",
+        "id": "05613",
+        "filelist": [
+            "Thanatos/",
+            "Thanatos/bg.png",
+            "Thanatos/song.ogg",
+            "Thanatos/song.tmb"
+        ],
+        "name": "Thanatos",
+        "shortName": "Thanatos",
+        "trackRef": "Thanatos from Evangelion",
+        "author": "Shiro Sagisu",
+        "year": 1995,
+        "genre": "OST",
+        "description": "Rip the goat... IFYKYK",
+        "tempo": 66.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 120,
+        "note_color_start": [
+            0.357421875,
+            0.0,
+            0.75
+        ],
+        "note_color_end": [
+            0.123677253723145,
+            0.578125,
+            0.02935791015625
+        ],
+        "endpoint": 236,
+        "hash": "03fd20af26fc3ef7310ba9af22e1452d476b0304b9c38aae68292e8905ac64e9",
+        "version": null,
+        "tt_id": 8218,
+        "pixeldrain_id": null,
+        "download_path": "05613.zip",
+        "charter": "pipe",
+        "user_id": 700720482734964777,
+        "message_id": 1542603445549277356,
+        "size": 4573194
+    },
+    {
+        "filename": "05614. 惑星ウェブスター - 蒼姫ラピス, メルリ -Planet Webstar - Atena [silver].zip",
+        "id": "05614",
+        "filelist": [
+            "Planet Webstar/",
+            "Planet Webstar/bg.mp4",
+            "Planet Webstar/song.ogg",
+            "Planet Webstar/song.tmb"
+        ],
+        "name": "惑星ウェブスター / 蒼姫ラピス, メルリ /Planet Webstar",
+        "shortName": "Planet Webstar",
+        "trackRef": "Planet Webstar",
+        "author": "Atena",
+        "year": 2022,
+        "genre": "Vocaloid",
+        "description": "mmmm 5/3 swing",
+        "tempo": 166,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0.007476806640625,
+            0.19140625
+        ],
+        "note_color_end": [
+            0.298039197921753,
+            0.309007346630096,
+            1
+        ],
+        "endpoint": 450,
+        "hash": "c7b3c47f497a50988cb4e702cfd611e6a91e6f68803246524c24a42518158a91",
+        "version": null,
+        "tt_id": 8219,
+        "pixeldrain_id": null,
+        "download_path": "05614.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1542662267362082918,
+        "size": 9185004
     }
 ]

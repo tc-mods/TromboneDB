@@ -241867,5 +241867,46 @@
         "user_id": 700720482734964777,
         "message_id": 1543179687784882247,
         "size": 5696957
+    },
+    {
+        "filename": "05624. krill miku - Part 1 - justan oval [Madpie24].zip",
+        "id": "05624",
+        "filelist": [
+            "krill_miku_pt1/",
+            "krill_miku_pt1/bg.png",
+            "krill_miku_pt1/song.ogg",
+            "krill_miku_pt1/song.tmb"
+        ],
+        "name": "krill miku / Part 1",
+        "shortName": "krill miku Pt1",
+        "trackRef": "KrillMiku",
+        "author": "justan oval",
+        "year": "2026",
+        "genre": "justan oval",
+        "description": "Cooperative chart meant for four boners\n\nPart 1",
+        "tempo": 160.0,
+        "timesig": 3,
+        "difficulty": 4,
+        "savednotespacing": 230,
+        "note_color_start": [
+            0.241666526,
+            1.0,
+            1.0
+        ],
+        "note_color_end": [
+            1.0,
+            0.3749998,
+            0.005952236
+        ],
+        "endpoint": 255.0,
+        "hash": "2515905513c52d0e5bc895b42f1f154dddad7132e9dd53af238e8733d7974565",
+        "version": null,
+        "tt_id": 8229,
+        "pixeldrain_id": null,
+        "download_path": "05624.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1543260740368998543,
+        "size": 2553772
     }
 ]

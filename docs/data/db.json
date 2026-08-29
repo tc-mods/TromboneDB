@@ -241613,5 +241613,46 @@
         "user_id": 258094952137883648,
         "message_id": 1542690480574308444,
         "size": 7537850
+    },
+    {
+        "filename": "05617. DJ Joel Tekkno Pidgeon - Vargskelethor Joel [❤LunaTheCutest❤].zip",
+        "id": "05617",
+        "filelist": [
+            "Tekkno Pidgeon/",
+            "Tekkno Pidgeon/bg.png",
+            "Tekkno Pidgeon/song.ogg",
+            "Tekkno Pidgeon/song.tmb"
+        ],
+        "name": "DJ Joel Tekkno Pidgeon",
+        "shortName": "Tekkno Pidgeon",
+        "trackRef": "TEKKNOPIGEON",
+        "author": "Vargskelethor Joel",
+        "year": 2019,
+        "genre": "Techno",
+        "description": "COMPLETE GLOBAL LACTATION",
+        "tempo": 180,
+        "timesig": 4,
+        "difficulty": 8,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0,
+            0
+        ],
+        "note_color_end": [
+            1,
+            1,
+            1
+        ],
+        "endpoint": 837,
+        "hash": "82a59aa90513bba9ebd7d6c470cf1fbd25f2149454a02f4a63e11540e880a0bd",
+        "version": null,
+        "tt_id": 8222,
+        "pixeldrain_id": null,
+        "download_path": "05617.zip",
+        "charter": "❤LunaTheCutest❤",
+        "user_id": 692580531489210379,
+        "message_id": 1543080320180555817,
+        "size": 14388500
     }
 ]

@@ -242031,5 +242031,46 @@
         "user_id": 196324916864352257,
         "message_id": 1543425381485510668,
         "size": 9185476
+    },
+    {
+        "filename": "05628. Neon feat. Kasane Teto - Yowane [Madpie24].zip",
+        "id": "05628",
+        "filelist": [
+            "neon/",
+            "neon/bg.png",
+            "neon/song.ogg",
+            "neon/song.tmb"
+        ],
+        "name": "Neon feat. Kasane Teto",
+        "shortName": "Neon",
+        "trackRef": "neon_3bzekz",
+        "author": "Yowane",
+        "year": "2026",
+        "genre": "Vocaloid",
+        "description": "It's okay, it's okay\r\nWe're still learning how to shine, neon",
+        "tempo": 176.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 210,
+        "note_color_start": [
+            0.7892857,
+            0.13690491,
+            0.1505951
+        ],
+        "note_color_end": [
+            0.9386904,
+            0.639880836,
+            0.6636904
+        ],
+        "endpoint": 403.0,
+        "hash": "bc92ca208cd359490ad48d1c1b1afed38fbfc7324a706e67474293497853d04d",
+        "version": null,
+        "tt_id": 8233,
+        "pixeldrain_id": null,
+        "download_path": "05628.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1543703508799328287,
+        "size": 3717038
     }
 ]

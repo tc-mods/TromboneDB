@@ -241990,5 +241990,46 @@
         "user_id": 756520104639856701,
         "message_id": 1543350070483619881,
         "size": 5222431
+    },
+    {
+        "filename": "05627. キャンディ- - Candy ft. GUMI - んなお - nnaooo [silver].zip",
+        "id": "05627",
+        "filelist": [
+            "CANDY/",
+            "CANDY/bg.mp4",
+            "CANDY/song.ogg",
+            "CANDY/song.tmb"
+        ],
+        "name": "キャンディ* / Candy ft. GUMI",
+        "shortName": "Candy",
+        "trackRef": "Candy",
+        "author": "んなお / nnaooo",
+        "year": 2026,
+        "genre": "Vocaloid",
+        "description": "this is my religion",
+        "tempo": 180,
+        "timesig": 2,
+        "difficulty": 7,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0,
+            0.26953125,
+            0.048431396484375
+        ],
+        "note_color_end": [
+            0.165424585342407,
+            0.7578125,
+            0.062164306640625
+        ],
+        "endpoint": 398,
+        "hash": "73b34d45475a3a32d838f976a33366a528451ef455d1c3da39c6dc3af02973ce",
+        "version": null,
+        "tt_id": 8232,
+        "pixeldrain_id": null,
+        "download_path": "05627.zip",
+        "charter": "silver",
+        "user_id": 196324916864352257,
+        "message_id": 1543425381485510668,
+        "size": 9185476
     }
 ]

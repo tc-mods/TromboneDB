@@ -242303,5 +242303,160 @@
         "user_id": 216807674187087873,
         "message_id": 1543787501146349580,
         "size": 11446880
+    },
+    {
+        "filename": "05635. Lollipop☆driveR - 梅干茶漬け [Ethan].zip",
+        "id": "05635",
+        "filelist": [
+            "Lollipop driveR/",
+            "Lollipop driveR/bg.png",
+            "Lollipop driveR/song.ogg",
+            "Lollipop driveR/song.tmb"
+        ],
+        "name": "Lollipop☆driveR",
+        "shortName": "Lollipop☆driveR",
+        "trackRef": "LollipopdriveR",
+        "author": "梅干茶漬け",
+        "year": 2015,
+        "genre": "Chiptune",
+        "description": "Hardest bass solo you'll ever hear\nSSS2 Finals",
+        "tempo": 292,
+        "timesig": 8,
+        "difficulty": 10,
+        "savednotespacing": 180,
+        "note_color_start": [
+            1,
+            0.211764708161354,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.800000011920929,
+            0.298039227724075
+        ],
+        "endpoint": 683,
+        "hash": "d94010dbaac9dbf74e38abcfd6b7428d3def82b96199bbbb0e691dc85788e246",
+        "version": null,
+        "tt_id": 8242,
+        "pixeldrain_id": null,
+        "download_path": "05635.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1543791024982196369,
+        "size": 8777728
+    },
+    {
+        "filename": "05636. Unbound - ZxNX [PX].zip",
+        "id": "05636",
+        "filelist": [
+            "Unbound/",
+            "Unbound/bg.png",
+            "Unbound/song.ogg",
+            "Unbound/song.tmb"
+        ],
+        "name": "Unbound",
+        "shortName": "Unbound",
+        "trackRef": "unboundzxnx",
+        "author": "ZxNX",
+        "year": 2026,
+        "genre": "Electronic",
+        "description": "Can you keep up with the mythical beast?\nSSS2 Finals Custom Song by ZxNX, charted by PX",
+        "tempo": 320,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 180,
+        "note_color_start": [
+            0.20392157137394,
+            0.298039227724075,
+            0.921568632125854
+        ],
+        "note_color_end": [
+            0.694117665290833,
+            0.20392157137394,
+            0.921568632125854
+        ],
+        "endpoint": 1272,
+        "hash": "9b2921720ec71ab38e6d8f5f860794c36cdf8da9aa7346ad68fb8acee8343355",
+        "version": null,
+        "tt_id": 8241,
+        "pixeldrain_id": null,
+        "download_path": "05636.zip",
+        "charter": "PX",
+        "user_id": 217480029246980096,
+        "message_id": 1543794979409887343,
+        "size": 10404233
+    },
+    {
+        "filename": "05637. Lollipop☆driveR - 梅干茶漬け [Ethan].zip",
+        "id": "05637",
+        "filelist": [
+            "Lollipop driveR/",
+            "Lollipop driveR/bg.png",
+            "Lollipop driveR/song.ogg",
+            "Lollipop driveR/song.tmb"
+        ],
+        "name": "Lollipop☆driveR",
+        "shortName": "Lollipop☆driveR",
+        "trackRef": "LollipopdriveR",
+        "author": "梅干茶漬け",
+        "year": 2015,
+        "genre": "Chiptune",
+        "description": "Hardest bass solo you'll ever hear\nSSS2 Finals",
+        "tempo": 292,
+        "timesig": 8,
+        "difficulty": 10,
+        "savednotespacing": 180,
+        "note_color_start": [
+            1,
+            0.211764708161354,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.800000011920929,
+            0.298039227724075
+        ],
+        "endpoint": 683,
+        "hash": "d94010dbaac9dbf74e38abcfd6b7428d3def82b96199bbbb0e691dc85788e246",
+        "version": null,
+        "tt_id": 8242,
+        "pixeldrain_id": null,
+        "download_path": "05637.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1543802904710746223,
+        "size": 8777728
+    },
+    {
+        "filename": "05638. As The World Falls Down - David Bowie - David Bowie Labyrinth [-✧♡˖꒰⑅𝚃𝚒𝚏𝚏𝚎𝚔𝚒𝚔𝚒⑅꒱˖♡✧-].zip",
+        "id": "05638",
+        "filelist": [
+            "astheworldfallsdown/bg.png",
+            "astheworldfallsdown/song.ogg",
+            "astheworldfallsdown/song.tmb"
+        ],
+        "name": "As The World Falls Down - David Bowie",
+        "shortName": "As The World Falls Down",
+        "trackRef": "astheworldfallsdown",
+        "author": "David Bowie Labyrinth",
+        "year": 1986,
+        "genre": "pop rock",
+        "description": "AS THE WORLD FALLS DOOOOWN",
+        "tempo": 99,
+        "timesig": 2,
+        "difficulty": 3,
+        "savednotespacing": 120,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 478,
+        "hash": "4267be4db236d90fb30f9cb80d4a6cf8712652a17bb869a851e8c7bb614e12f2",
+        "version": null,
+        "tt_id": 8243,
+        "pixeldrain_id": null,
+        "download_path": "05638.zip",
+        "charter": "*✧♡˖꒰⑅𝚃𝚒𝚏𝚏𝚎𝚔𝚒𝚔𝚒⑅꒱˖♡✧*",
+        "user_id": 887841324634611772,
+        "message_id": 1543817309938786416,
+        "size": 4946892
     }
 ]

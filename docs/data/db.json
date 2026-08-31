@@ -242540,5 +242540,46 @@
         "user_id": 616675402282434583,
         "message_id": 1543996289585512599,
         "size": 23714886
+    },
+    {
+        "filename": "05641. Koigokoro - Yugo Kanno [pipe].zip",
+        "id": "05641",
+        "filelist": [
+            "Koigokoro/",
+            "Koigokoro/bg.png",
+            "Koigokoro/song.ogg",
+            "Koigokoro/song.tmb"
+        ],
+        "name": "Koigokoro",
+        "shortName": "Koigokoro",
+        "trackRef": "Koigokoro From Jojo's Part 4",
+        "author": "Yugo Kanno",
+        "year": 2016,
+        "genre": "OST",
+        "description": "Hidden part 4 banger",
+        "tempo": 100.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 120,
+        "note_color_start": [
+            0.125,
+            1.0,
+            0.0
+        ],
+        "note_color_end": [
+            0.294117718935013,
+            0.730392158031464,
+            0.992156863212585
+        ],
+        "endpoint": 275,
+        "hash": "01b1f276804628297d0f86da47861f3a345c0f11d2ee16d0ee607ccf16981ef2",
+        "version": null,
+        "tt_id": 8245,
+        "pixeldrain_id": null,
+        "download_path": "05641.zip",
+        "charter": "pipe",
+        "user_id": 700720482734964777,
+        "message_id": 1544088409411166299,
+        "size": 2391857
     }
 ]

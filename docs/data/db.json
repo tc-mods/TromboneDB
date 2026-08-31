@@ -242458,5 +242458,87 @@
         "user_id": 887841324634611772,
         "message_id": 1543817309938786416,
         "size": 4946892
+    },
+    {
+        "filename": "05639. Girls Will Be Girls - ITZY [doogbook479].zip",
+        "id": "05639",
+        "filelist": [
+            "GWBG_V3/",
+            "GWBG_V3/bg.mp4",
+            "GWBG_V3/song.ogg",
+            "GWBG_V3/song.tmb"
+        ],
+        "name": "Girls Will Be Girls",
+        "shortName": "Girls Will Be Girls",
+        "trackRef": "girlswi_fo523d",
+        "author": "ITZY",
+        "year": "2025",
+        "genre": "Kpop",
+        "description": "Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be \n/Charted by doogbook479",
+        "tempo": 130.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 280,
+        "note_color_start": [
+            0.0,
+            0.282737732,
+            0.184523448
+        ],
+        "note_color_end": [
+            0.0,
+            0.6160714,
+            0.470237941
+        ],
+        "endpoint": 372.0,
+        "hash": "2b033eb09e9ae6b53b764cdb8cbf3253bcdb121d88778356697eb6b0755cffe3",
+        "version": null,
+        "tt_id": 8244,
+        "pixeldrain_id": null,
+        "download_path": "05639.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1543995668346183731,
+        "size": 23714758
+    },
+    {
+        "filename": "05640. Girls Will Be Girls - ITZY [doogbook479].zip",
+        "id": "05640",
+        "filelist": [
+            "new_girls_will_be_girls/",
+            "new_girls_will_be_girls/bg.mp4",
+            "new_girls_will_be_girls/song.ogg",
+            "new_girls_will_be_girls/song.tmb"
+        ],
+        "name": "Girls Will Be Girls",
+        "shortName": "Girls Will Be Girls",
+        "trackRef": "girlswi_fo523d",
+        "author": "ITZY",
+        "year": "2025",
+        "genre": "Kpop",
+        "description": "Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be Girls Will Be \n/Charted by doogbook479",
+        "tempo": 130.0,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 280,
+        "note_color_start": [
+            0.0,
+            0.282737732,
+            0.184523448
+        ],
+        "note_color_end": [
+            0.0,
+            0.6160714,
+            0.470237941
+        ],
+        "endpoint": 372.0,
+        "hash": "2b033eb09e9ae6b53b764cdb8cbf3253bcdb121d88778356697eb6b0755cffe3",
+        "version": null,
+        "tt_id": 8244,
+        "pixeldrain_id": null,
+        "download_path": "05640.zip",
+        "charter": "doogbook479",
+        "user_id": 616675402282434583,
+        "message_id": 1543996289585512599,
+        "size": 23714886
     }
 ]

@@ -242581,5 +242581,46 @@
         "user_id": 700720482734964777,
         "message_id": 1544088409411166299,
         "size": 2391857
+    },
+    {
+        "filename": "05642. Cabo Frio - Trombone Talk - Gerhard Narholz [frogminers].zip",
+        "id": "05642",
+        "filelist": [
+            "Cabo Frio - Trombone Talk/",
+            "Cabo Frio - Trombone Talk/bg.png",
+            "Cabo Frio - Trombone Talk/song.ogg",
+            "Cabo Frio - Trombone Talk/song.tmb"
+        ],
+        "name": "Cabo Frio - Trombone Talk",
+        "shortName": "Cabo Frio",
+        "trackRef": "cabofri_6sw9uj",
+        "author": "Gerhard Narholz",
+        "year": "1980",
+        "genre": "Easy listening",
+        "description": "As performed by the Hans Ehrlinger Orchestra",
+        "tempo": 108.0,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 260,
+        "note_color_start": [
+            1.0,
+            0.107598275,
+            0.0
+        ],
+        "note_color_end": [
+            1.0,
+            0.460714281,
+            0.012324824
+        ],
+        "endpoint": 275.0,
+        "hash": "7212edaeb0acd4cc763af7fa6447b0b6faef8348a5b96468f543eccacd6c1fe9",
+        "version": null,
+        "tt_id": 8246,
+        "pixeldrain_id": null,
+        "download_path": "05642.zip",
+        "charter": "frogminers",
+        "user_id": 1226998093472595979,
+        "message_id": 1544105929874866247,
+        "size": 3417653
     }
 ]

@@ -242768,5 +242768,46 @@
         "user_id": 177527479609589760,
         "message_id": 1544879148252668084,
         "size": 7020611
+    },
+    {
+        "filename": "05647. Static ft. Hatsune Miku - FLAVOR FOLEY  [Samuran].zip",
+        "id": "05647",
+        "filelist": [
+            "Static/",
+            "Static/bg.png",
+            "Static/song.ogg",
+            "Static/song.tmb"
+        ],
+        "name": "Static ft. Hatsune Miku",
+        "shortName": "Static",
+        "trackRef": "static",
+        "author": "FLAVOR FOLEY ",
+        "year": "2025",
+        "genre": "Vocaloid",
+        "description": "This is how things should be",
+        "tempo": 190.0,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 250,
+        "note_color_start": [
+            1.0,
+            0.12941176470588237,
+            0.0
+        ],
+        "note_color_end": [
+            0.17647058823529413,
+            0.0,
+            0.8705882352941177
+        ],
+        "endpoint": 776.0000000000001,
+        "hash": "79ca8d52dd11a24e422b673a6daf7ced9c15a8c39f5d379e8e3d2cd6eaa716aa",
+        "version": null,
+        "tt_id": 8251,
+        "pixeldrain_id": null,
+        "download_path": "05647.zip",
+        "charter": "Samuran",
+        "user_id": 756520104639856701,
+        "message_id": 1545069668614803517,
+        "size": 3969318
     }
 ]

@@ -242809,5 +242809,78 @@
         "user_id": 756520104639856701,
         "message_id": 1545069668614803517,
         "size": 3969318
+    },
+    {
+        "filename": "05648. Imprinting - Sakuzyo [Electrostats].zip",
+        "id": "05648",
+        "filelist": [
+            "Imprinting/bg.png",
+            "Imprinting/song.ogg",
+            "Imprinting/song.tmb"
+        ],
+        "name": "Imprinting",
+        "shortName": "Imprinting",
+        "trackRef": "imprinting",
+        "author": "Sakuzyo",
+        "year": 2014,
+        "genre": "Speed",
+        "description": "yes",
+        "tempo": 175,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 200,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 338,
+        "hash": "e75c65926e2568ef9fe853619e561502a47ee74f62641fee9f9d1fa56099bfae",
+        "version": null,
+        "tt_id": 8252,
+        "pixeldrain_id": null,
+        "download_path": "05648.zip",
+        "charter": "Electrostats",
+        "user_id": 177527479609589760,
+        "message_id": 1545437548556456048,
+        "size": 2333901
+    },
+    {
+        "filename": "05649. I Can’t Fix You - The Living Tombstone ft. Crusher-P [Samuran].zip",
+        "id": "05649",
+        "filelist": [
+            "FNAF Sister Location TLT/",
+            "FNAF Sister Location TLT/bg.png",
+            "FNAF Sister Location TLT/song.ogg",
+            "FNAF Sister Location TLT/song.tmb"
+        ],
+        "name": "I Can’t Fix You",
+        "shortName": "I Can’t Fix You",
+        "trackRef": "fnafsl",
+        "author": "The Living Tombstone ft. Crusher-P",
+        "year": 2016,
+        "genre": "Nerdcore",
+        "description": "A chart I never decided to release but now recharted from the ground up",
+        "tempo": 174,
+        "timesig": 4,
+        "difficulty": 6,
+        "savednotespacing": 260,
+        "note_color_start": [
+            1,
+            0.211764708161354,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0.800000011920929,
+            0.298039227724075
+        ],
+        "endpoint": 760,
+        "hash": "84da0eec3ff5437d495a0da6284edd15029fd50b0fa0001bcd6833d0c1e6e960",
+        "version": null,
+        "tt_id": 8253,
+        "pixeldrain_id": null,
+        "download_path": "05649.zip",
+        "charter": "Samuran",
+        "user_id": 756520104639856701,
+        "message_id": 1545447637426110486,
+        "size": 5202126
     }
 ]

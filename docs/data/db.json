@@ -242914,5 +242914,46 @@
         "user_id": 887841324634611772,
         "message_id": 1545527603455201311,
         "size": 3953810
+    },
+    {
+        "filename": "05651. Circus (Sigma Rizz Mode Final Arc Ultra Edition) - SiIvaGunner [Daki].zip",
+        "id": "05651",
+        "filelist": [
+            "circus_sigma_rizz_mode/",
+            "circus_sigma_rizz_mode/bg.mp4",
+            "circus_sigma_rizz_mode/song.ogg",
+            "circus_sigma_rizz_mode/song.tmb"
+        ],
+        "name": "Circus (Sigma Rizz Mode Final Arc Ultra Edition)",
+        "shortName": "Circus (Sigma Rizz Mode)",
+        "trackRef": "circuss_1yadwa",
+        "author": "SiIvaGunner",
+        "year": "2025",
+        "genre": "High Quality Rip",
+        "description": "that one siiva rip",
+        "tempo": 162.5,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0.95,
+            0.22,
+            0.35
+        ],
+        "note_color_end": [
+            0.15,
+            1.0,
+            1.0
+        ],
+        "endpoint": 332.0,
+        "hash": "3cc7335d46cf01dbee92ab3d98f8d052fa27849a70128a2dd759daf2d0b27228",
+        "version": null,
+        "tt_id": 8255,
+        "pixeldrain_id": null,
+        "download_path": "05651.zip",
+        "charter": "Daki",
+        "user_id": 958604604868792361,
+        "message_id": 1546177327841677416,
+        "size": 17384768
     }
 ]

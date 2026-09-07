@@ -242955,5 +242955,211 @@
         "user_id": 958604604868792361,
         "message_id": 1546177327841677416,
         "size": 17384768
+    },
+    {
+        "filename": "05652. Numskull ft. Hatsune Miku - justan oval [Sleeby Maddy~].zip",
+        "id": "05652",
+        "filelist": [
+            "numskull/",
+            "numskull/bg.png",
+            "numskull/song.ogg",
+            "numskull/song.tmb"
+        ],
+        "name": "Numskull ft. Hatsune Miku",
+        "shortName": "Numskull",
+        "trackRef": "NUMSKULL",
+        "author": "justan oval",
+        "year": 2024,
+        "genre": "Electronic",
+        "description": "I'm so sorry, I'm a numskull, It's not something, That I foresaw.\nSSS2 Grand Finals",
+        "tempo": 160,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 175,
+        "note_color_start": [
+            0,
+            1,
+            1
+        ],
+        "note_color_end": [
+            0.294117659330368,
+            0.294117659330368,
+            0.294117659330368
+        ],
+        "endpoint": 603,
+        "hash": "43c4522cf54d6c15ebf429b32ecd13a178e8f4f76952d08c95a76c921d84a510",
+        "version": null,
+        "tt_id": 8256,
+        "pixeldrain_id": null,
+        "download_path": "05652.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1546299084761997312,
+        "size": 5220453
+    },
+    {
+        "filename": "05653. Deeper Love - Botnek & I See MONSTAS [Ethan].zip",
+        "id": "05653",
+        "filelist": [
+            "Deeper Love/",
+            "Deeper Love/bg.png",
+            "Deeper Love/song.ogg",
+            "Deeper Love/song.tmb"
+        ],
+        "name": "Deeper Love",
+        "shortName": "Deeper Love",
+        "trackRef": "deeperlovemonstercat",
+        "author": "Botnek & I See MONSTAS",
+        "year": 2015,
+        "genre": "Drum and Bass",
+        "description": "Monstercat Addiction Part 5\nSSS2 Grand Finals",
+        "tempo": 174,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 280,
+        "note_color_start": [
+            1,
+            0,
+            0
+        ],
+        "note_color_end": [
+            1,
+            0,
+            0
+        ],
+        "endpoint": 724,
+        "hash": "702fa756dbc32b67868236e2687f42126f4f92b585d42fc3420fae70c232c58c",
+        "version": null,
+        "tt_id": 8257,
+        "pixeldrain_id": null,
+        "download_path": "05653.zip",
+        "charter": "Ethan",
+        "user_id": 216807674187087873,
+        "message_id": 1546299770241286146,
+        "size": 5684317
+    },
+    {
+        "filename": "05654. あかず - かたぎり - katagiri [PX].zip",
+        "id": "05654",
+        "filelist": [
+            "still red katagiri/",
+            "still red katagiri/bg.png",
+            "still red katagiri/song.ogg",
+            "still red katagiri/song.tmb"
+        ],
+        "name": "あかず",
+        "shortName": "あかず",
+        "trackRef": "still red katagiri",
+        "author": "かたぎり / katagiri",
+        "year": 2024,
+        "genre": "j hardcore",
+        "description": "A wolf in sheeps clothing, hard to notice...\nSSS2 Grand Finals",
+        "tempo": 217,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 220,
+        "note_color_start": [
+            0.592156887054443,
+            0.168627455830574,
+            0.223529413342476
+        ],
+        "note_color_end": [
+            0.39215686917305,
+            0.14509804546833,
+            0.129411771893501
+        ],
+        "endpoint": 517,
+        "hash": "4a578f744fd24815e41d81f4af1cc958cf20b3fe82fb2d43d0c7beaaafb918bc",
+        "version": null,
+        "tt_id": 8258,
+        "pixeldrain_id": null,
+        "download_path": "05654.zip",
+        "charter": "PX",
+        "user_id": 217480029246980096,
+        "message_id": 1546303728200581270,
+        "size": 4301569
+    },
+    {
+        "filename": "05655. 東 - かたぎり - katagiri [PX].zip",
+        "id": "05655",
+        "filelist": [
+            "higashi katagiri/",
+            "higashi katagiri/bg.png",
+            "higashi katagiri/song.ogg",
+            "higashi katagiri/song.tmb"
+        ],
+        "name": "東",
+        "shortName": "東",
+        "trackRef": "higashi katagiri",
+        "author": "かたぎり / katagiri",
+        "year": 2022,
+        "genre": "j hardcore",
+        "description": "Katagiri banger\nSSS2 Grand Finals",
+        "tempo": 328,
+        "timesig": 4,
+        "difficulty": 10,
+        "savednotespacing": 150,
+        "note_color_start": [
+            1,
+            0,
+            0
+        ],
+        "note_color_end": [
+            0,
+            0,
+            1
+        ],
+        "endpoint": 725,
+        "hash": "c3b6736a69560c2568fd290d2a34097b761f3509f2f4580914d3615391505ad9",
+        "version": null,
+        "tt_id": 8259,
+        "pixeldrain_id": null,
+        "download_path": "05655.zip",
+        "charter": "PX",
+        "user_id": 217480029246980096,
+        "message_id": 1546310747578179655,
+        "size": 3301784
+    },
+    {
+        "filename": "05656. Chrysalis - BilliumMoto [Sleeby Maddy~].zip",
+        "id": "05656",
+        "filelist": [
+            "Chrysalis/",
+            "Chrysalis/bg.mp4",
+            "Chrysalis/bg.png",
+            "Chrysalis/song.ogg",
+            "Chrysalis/song.tmb"
+        ],
+        "name": "Chrysalis",
+        "shortName": "Chrysalis",
+        "trackRef": "SSS2Chrysalis",
+        "author": "BilliumMoto",
+        "year": 2026,
+        "genre": "INFINITY",
+        "description": "The time has come. Will you escape the never ending nightmare? Or will you be forever entwined.\nSSS2 Grand Finals TB by BilliumMoto, charted by the SSS2 Chart Team.",
+        "tempo": 310,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 200,
+        "note_color_start": [
+            0,
+            0.627451002597809,
+            1
+        ],
+        "note_color_end": [
+            0.176470592617989,
+            0.298039227724075,
+            0.486274510622025
+        ],
+        "endpoint": 1336,
+        "hash": "b4c9132a696056106165ad1816a233ece47cef9f746a9343832788eda60cd898",
+        "version": null,
+        "tt_id": 8260,
+        "pixeldrain_id": null,
+        "download_path": "05656.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1546314923599077409,
+        "size": 10496870
     }
 ]

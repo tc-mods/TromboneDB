@@ -243260,5 +243260,87 @@
         "user_id": 439174446562148362,
         "message_id": 1546318695003856966,
         "size": 10256787
+    },
+    {
+        "filename": "05660. Trick Heart - トリックハート feat. Kasane Teto - MIMI [Madpie24].zip",
+        "id": "05660",
+        "filelist": [
+            "trick_heart/",
+            "trick_heart/bg.mp4",
+            "trick_heart/song.ogg",
+            "trick_heart/song.tmb"
+        ],
+        "name": "Trick Heart / トリックハート feat. Kasane Teto",
+        "shortName": "Trick Heart",
+        "trackRef": "trickhe_oswzd9",
+        "author": "MIMI",
+        "year": "2026",
+        "genre": "Vocaloid",
+        "description": "illustration, animation: 3774. (bokarokaku)",
+        "tempo": 300.0,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 145,
+        "note_color_start": [
+            1.0,
+            0.8271433,
+            0.6059527
+        ],
+        "note_color_end": [
+            0.5666667,
+            0.2261904,
+            0.2261904
+        ],
+        "endpoint": 784.0,
+        "hash": "0403aafb5118915317921eb22afa3eccdf5849a4ef600492b1316134d5f4785d",
+        "version": null,
+        "tt_id": 8264,
+        "pixeldrain_id": null,
+        "download_path": "05660.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1546554244377874533,
+        "size": 10744606
+    },
+    {
+        "filename": "05661. Trick Heart - トリックハート feat. Kasane Teto - MIMI [Madpie24].zip",
+        "id": "05661",
+        "filelist": [
+            "trick_heart/",
+            "trick_heart/bg.mp4",
+            "trick_heart/song.ogg",
+            "trick_heart/song.tmb"
+        ],
+        "name": "Trick Heart / トリックハート feat. Kasane Teto",
+        "shortName": "Trick Heart",
+        "trackRef": "trickhe_oswzd9",
+        "author": "MIMI",
+        "year": 2026,
+        "genre": "Vocaloid",
+        "description": "illustration, animation: 3774. (bokarokaku)",
+        "tempo": 300,
+        "timesig": 4,
+        "difficulty": 7,
+        "savednotespacing": 145,
+        "note_color_start": [
+            1,
+            0.827143311500549,
+            0.605952680110931
+        ],
+        "note_color_end": [
+            0.566666722297668,
+            0.226190403103828,
+            0.226190403103828
+        ],
+        "endpoint": 784,
+        "hash": "4805f5f666f04403f50d10903b086ec511c448bd7a540c04eccc6a7b305fc50d",
+        "version": null,
+        "tt_id": 8265,
+        "pixeldrain_id": null,
+        "download_path": "05661.zip",
+        "charter": "Madpie24",
+        "user_id": 226382545204412416,
+        "message_id": 1546565043431407750,
+        "size": 10744531
     }
 ]

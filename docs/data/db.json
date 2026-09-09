@@ -243342,5 +243342,38 @@
         "user_id": 226382545204412416,
         "message_id": 1546565043431407750,
         "size": 10744531
+    },
+    {
+        "filename": "05662. With a Dance Number - Nanahoshi Kangen Gakudan [Sleeby Maddy~].zip",
+        "id": "05662",
+        "filelist": [
+            "With a Dance Number SSS2/",
+            "With a Dance Number SSS2/bg.png",
+            "With a Dance Number SSS2/song.ogg",
+            "With a Dance Number SSS2/song.tmb"
+        ],
+        "name": "With a Dance Number",
+        "shortName": "With a Dance Number",
+        "trackRef": "withadancenumber",
+        "author": "Nanahoshi Kangen Gakudan",
+        "year": 2011,
+        "genre": "Vocaloid Rock",
+        "description": "Will you dance with me?\nSSS2 Finals",
+        "tempo": 296,
+        "timesig": 4,
+        "difficulty": 5,
+        "savednotespacing": 150,
+        "note_color_start": null,
+        "note_color_end": null,
+        "endpoint": 1288,
+        "hash": "37dac48ba9e60450572a302e0077ff87f1dce21fa1e0526dfd334cb92b0863e7",
+        "version": null,
+        "tt_id": 8266,
+        "pixeldrain_id": null,
+        "download_path": "05662.zip",
+        "charter": "Sleeby Maddy~",
+        "user_id": 128645240415453186,
+        "message_id": 1547386907514769448,
+        "size": 7134348
     }
 ]
